@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Valentina J. Alaasam, Ph.D."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - mentorship.qmd
+      - publications.qmd
+      - press.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: flatly
+    mainfont: arial
+    fontsize: 1rem
+    #fontcolor: "#0013d5"
+    #linkcolor: "#ff33f0"
+    #monofont: courier new
+    css: styles.css
+    toc: true
+
+editor: visual
+

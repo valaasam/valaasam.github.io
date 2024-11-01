@@ -1,0 +1,162 @@
+---
+title: "About me"
+format:
+  html:
+    theme: slate
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+       /* Increase title font size */
+      h1 {
+        font-size: 55px; /* Adjust the size as needed */
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 10;
+      }
+      #title-block-header {
+        background-image: url(header_about.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        position: relative;   
+      }
+      .quarto-title-block .quarto-title {
+        display: none;
+      }
+      .custom-title {
+        position: absolute; /* Use absolute positioning */
+        top: 30%; /* Position 30% from the top */
+        left: 49%; /* Position 40% from the left */
+        transform: translate(-50%, -50%); /* Center the element */
+        text-align: center; /* Center text */
+        color: #ffffff; /* Text color */
+      }
+      </style>
+---
+
+::: custom-title
+<h1><strong>About me</strong></h1>
+:::
+
+::: column-page
+::: {div="" style="background-color: #eaecee; padding: 15px; margin: 20px 0; text-align: center; font-size: 20px;"}
+<p style="margin: 0;">
+
+The action of doing science - asking questions, taking measurements, testing hypotheses - is only one component of being a scientist. There are many other roles I play, and motivations behind the work that I do as an academic scientist.\
+\
+Here are some of the things I am especially passionate about:\
+\
+**<a href="#section-one">Conservation</a>** **·** **<a href="#section-two">Education</a>** **·** **<a href="#section-three">DEI</a>** 
+
+</p>
+:::
+
+\
+
+
+::: columns
+::: {.column width="50%"}
+# **Conservation** {#section-one}
+
+Nature isn't always pretty. Sometimes it's slimy, poop-colored and has a large set of teeth, grinning at you from dark crevices in the bottom of the river.
+
+I originally pursued conservation biology to "save all the animals" from things like pollution and deforestation, but I was mainly concerned with "cute" animals - polar bears, turtles, maybe dolphins. Instead, I landed a position working with the eastern hellbender (*Cryptobranchus alleganiensis*), or 'snot-otters' as they are known colloquially across their range in rural Appalachia. Perhaps the most beautiful, interesting, and unique herp in North America (*shameless bias here*), the hellbender was my introduction to the real challenge of conservation: motivating people to connect with, and care about, topics that are unfamiliar or uncomfortable.
+
+I believe that with some effort it is always possible to find a connection that is meaningful to someone, to help bridge that gap between humans and their environment. Everything is connected - our air, water, soil, microbiome, the cells in our body, and all life on earth. Personally, this interconnectedness is what excites me and draws me to science. Professionally, I do conservation work because the more we discover and describe those connections, the more effectively we can work with them to help our world function and thrive.
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+![](About_1.jpg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="45%"}
+\
+\
+![](About_3.jpg)
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="50%"}
+# **Education** {#section-two}
+
+To study ecology or biology involves immersing ourselves in a foreign experience - the experience of an organism or system in nature. We practice understanding how it operates within the context of, for example, its motivations, evolutionary constraints or stochasticity.
+
+It is no suprise, then, that learning requires empathy. How well students know and understand something is a direct consequence of previous experiences (or lack thereof) and reflects the lens they are looking through.
+
+I believe the role of an educator is to provide students with new experiences and lenses that will expand their fields of view. When we ask students to just memorize information, it gets filed into whatever existing folders they already have and no growth is made. To expand fields of view, my goal is to teach students how to consistently reorganize knowledge and make space for new folders. In other words, to probe at habitual trains of thought & encourage disembarkment without forceful derailment.
+
+My priorities as an educator are to 1) help students become empathetic learners and comfortable asking questions in unfamiliar spaces; 2) be inclusive of diverse learning styles, starting lines, and limitations, and allow students to direct their own learning process when possible; 3) be transparent about how my own experience influences my perspective and be open to amendments in how/what I teach; 4) encourage colleagues to actively improve the education system, challenge practices that perpetuate inequity, and work together to change them.
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+# **Diversity & Inclusion** {#section-three}
+
+There is a table where scientists gather after a day in the field, lab or classroom - swapping stories over beers, or filling up on coffee before an evening lecture. At the table is curiosity, creativity, appreciation for nature. At the table is education, mentorship, confidence, and growth.
+
+Historically, this table was mostly male.\
+Still today, this table is mostly White. 
+
+Systemic exclusion is when the faces and voices at the table fail to represent groups of people desiring a seat. When the projected image or narrative of a scientist is singular, it sends a message of *us* versus *them,* encouraging polarity and emphasizing how we are different rather than how we are similar. It also discourages participation, and minority groups place ourselves in the stands instead of at the starting line. Moreover, exclusive environments redefine what it means to fail; instead of an invitation to solve problems, failure can reiterate the voice of self-doubt that says, *why am I even trying?*
+
+The voice that says *I don't belong at the table.*
+
+Diversifying the faces and voices at the table of STEM and academia is thus a critical step towards dismantling the glass ceiling that limits who has access. I am committed to the inclusivity of women, BIPOC, and LGBTQIA+, promoting multiculturalism & neurodiversity, appreciating the complexity of diverse lived experiences and resisting divisive forces that perpetuate social injustice in the scientific and academic communities.
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+![](biobus.jpg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+<!-- ::: columns -->
+<!-- ::: {.column width="45%"} -->
+<!-- \ -->
+<!-- \ -->
+<!-- \ -->
+<!-- ![](About_4.png) -->
+<!-- ::: -->
+
+<!-- ::: {.column width="10%"} -->
+<!-- <!-- empty column to create gap --> 
+<!-- ::: -->
+
+<!-- ::: {.column width="45%"} -->
+<!-- # **Work-life balance** {#section-four} -->
+
+<!-- On the first day of my graduate program, I had 2 initial impressions. The first was how kind, passionate, and intelligent the graduate students and faculty were. The second was how stressed and sad everyone seemed. -->
+
+<!-- Current perceptions of how to balance an academic career with personal life are outdated, posing a disservice to the majority of scientists today. The concept of WLB was originally developed over a period when cis-white males held the majority of STEM and higher ed positions. Therefore, sewn into the norms and expectations of this career are assumptions of a gender binary, gendered roles, and a nuclear family structure. resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. Though we appear to be approaching equal gender representation in eco-evo, metrics of evaluating success and productivity, and the internalized expectations we place on ourselves, are lagging behind, disproportionately affecting the achievement of WLB for historically underrepresented groups. -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- Achieving work life balance can be a particular challenge for academics in ecology and evolution. For many, the way we relate to our research programs or curricula can be quite personal, interwoven with our non-work passions and priorities. Intense periods of field or lab work, short-term positions, and frequent moves are common, especially in earlier career stages when our personal lives are also the most in flux. Moreover, our daily, monthly, and annual schedules and workloads can be extremely individualized; even colleagues at similar types of institutions or studying similar systems can have vastly different schedules, institutional expectations, and mosaics of responsibility (e.g. teaching, mentorship, service, research, etc.). -->
+
+<!-- Advice Examples of is passed down informally from mentors to mentees. With cis-white men still grossly over-represented in senior positions, the first generations of women in STEM had exclusively male mentors. Subsequent generations were upgraded to a selection of over-worked and underappreciated women who had succeeded by assimilating into a male-centric rulebook. As with general WLB expectations, passed-down advice for how to achieve is also a generation behind. -->
+
+<!-- Colleagues and I have developed [this shiny app tool](https://statsmatt.shinyapps.io/balanceApp/), where you can turn your life into an abstract blob of color too - for fun and reflection.  -->
+
+<!-- ------------------------------------------------------------------------ -->
+:::

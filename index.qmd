@@ -1,0 +1,66 @@
+---
+title: "Valentina J. Alaasam, Ph.D."
+description: "Behavior * Physiology * Urbanization * Evolution"
+format:
+  html:
+    theme: slate
+    fontsize: 1rem
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+      /* Increase title font size */
+      h1 {
+        font-size: 55px; /* Adjust the size as needed */
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 10;
+      }
+      #title-block-header {
+        background-image: url(header_main.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        position: relative;   
+      }
+      .quarto-title-block .quarto-title {
+        display: none;
+      }
+      .custom-title {
+        position: absolute; /* Use absolute positioning */
+        top: 30%; /* Position 30% from the top */
+        left: 50%; /* Position 40% from the left */
+        transform: translate(-50%, -50%); /* Center the element */
+        text-align: center; /* Center text */
+        color: #ffffff; /* Text color */
+      }
+      </style>
+---
+
+::: custom-title
+<h1><strong>Valentina J. Alaasam, Ph.D.</strong></h1>
+
+<p>Behavior \* Physiology \* Urbanization \* Evolution</p>
+:::
+
+::: column-page
+::: {layout="[ [1,1]]"}
+::: left
+\
+I am an integrative biologist interested in the behavioral, physiological, and eco-evolutionary mechanisms by which animals respond to anthropogenic change. I study this in cities - a 'natural experiment' where the speed and magnitude of change is unprecedented and the intersection of multiple stressors (e.g. light, noise and air pollution, heat, habitat loss/fragmentation, invasive species, etc.) is especially potent. I also use cities as a bridge to engage with local communities and leverage what we learn to promote urban designs that nurture both human diversity and biodiversity.
+
+\
+
+I am currently an NSF postdoctoral fellow studying how hummingbirds are adapting to urbanization. I received my Ph.D. in Ecology, Evolution and Conservation Biology from the University of Nevada, Reno, where my dissertation focused on the effects of light pollution on sleep, circadian rhythms, and stress physiology in zebra finches. Check out my research page for more information.
+
+\
+
+In my free time, I rock climb, backpack, run, ski uphill, cook, craft, practice reversing self-deprecation culture, and fight for social justice in both science and outdoor spaces.
+:::
+
+::: right
+![](Val_main.JPG){width="500"}
+:::
+:::
+:::

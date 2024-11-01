@@ -1,0 +1,77 @@
+---
+title: "Publications"
+format:
+  html:
+    theme: slate
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+       /* Increase title font size */
+      h1 {
+        font-size: 55px; /* Adjust the size as needed */
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 10;
+      }
+      #title-block-header {
+        background-image: url(header_pubs.jpeg);
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        position: relative;   
+      }
+      .quarto-title-block .quarto-title {
+        display: none;
+      }
+      .custom-title {
+        position: absolute; /* Use absolute positioning */
+        top: 30%; /* Position 30% from the top */
+        left: 48%; /* Position 40% from the left */
+        transform: translate(-50%, -50%); /* Center the element */
+        text-align: center; /* Center text */
+        color: #ffffff; /* Text color */
+      }
+      </style>
+---
+
+::: custom-title
+<h1><strong>Publications</strong></h1>
+:::
+
+::: column-page
+2024
+
+-   **Alaasam VJ,** Hui CK, Lomas J, Ferguson SM, Zhang Y, Yim WC, Ouyang JQ. (2024). What happens when the lights are left on? Transcriptomic and phenotypic habituation to light pollution. *Iscience*, *27*(2).
+
+-   Case BF, Groffen J, Galligan TM, Jachowski CMB, Hallagan JJ., Hildreth SB, **Alaasam VJ,** Ray KW, Helm RF, Hopkins WA. (2024). Androgen and glucocorticoid profiles throughout extended uniparental paternal care in the eastern hellbender salamander (*Cryptobranchus a. alleganiensi*s). *General and Comparative Endocrinology*, *355*, 114547. <https://doi.org/10.1016/j.ygcen.2024.114547>
+
+-   **Alaasam VJ,** Behnke TL, Grant AR, Ouyang JQ. (2024). Glucocorticoids and land cover: a largescale comparative approach to assess a physiological biomarker for avian conservation. Philosophical Transactions of the Royal Society B. 2024 Mar 25;379(1898):20220508. <https://doi.org/10.1098/rstb.2022.0508>
+
+-   Bodinof Jachowski C, **Alaasam VJ,** Blumenthal A, Davis AK, Hopkins WA. (2024). The habitat quality paradox: loss of riparian forest cover leads to decreased risk of parasitism and improved body condition in an imperiled amphibian. *Conservation Physiology*, *12*(1), p.coad101. <https://doi.org/10.1093/conphys/coad101>
+
+2023
+
+-   Hui CK, Chen N, Chakraborty A, **Alaasam VJ** , Pieraut S, Ouyang JQ. 2023. Dim artificial light at night alters immediate early gene expression throughout the avian brain. Front. Neurosci. 2023. doi: 10.3389/fnins.2023.1194996
+
+2021
+
+-   Galligan TM, Helm RF, Case BF, Bodinof Jachowski CM, Frazier CL, **Alaasam VJ**, Hopkins WA. 2021. Pre-breeding androgen and glucocorticoid profiles in the eastern hellbender salamander (*Cryptobranchus alleganiensis alleganiensis*). General and Comparative Endocrinology. 313:113899. doi: [10.1016/j.ygcen.2021.113899](https://doi.org/10.1016/j.ygcen.2021.113899). 
+
+-   Kernbach ME, Miller CR, **Alaasam VJ**, Ferguson SM, Francis CD. 2021. Introduction to the Symposium: Effects of Light Pollution Across Diverse Natural Systems. *Integrative and Comparative Biology*. doi: [10.1093/icb/icab157](https://doi.org/10.1093/icb/icab157)
+
+-   **Alaasam VJ,** Kernbach ME, Miller CR, Ferguson SM. The Diversity of Photosensitivity and its Implications for Light Pollution. 2021. *Integrative and Comparative Biology.* doi: 10.1093/icb/icab156
+
+-   **Alaasam VJ,** Ouyang JQ. 2021. The power of large‐scale community science in addressing anthropogenic change. *Global Change Biology.* 27(17). doi: 10.1111/gcb.15741. 
+
+-   **Alaasam VJ,** Xiu L,Zhang Y, Niu Y, Ferguson B, Pieraut S, Ouyang JQ. 2021.Effects of dim artificial light at night on locomotor activity, cardiovascular physiology, and circadian clock genes in a diurnal songbird. Environmental Pollution. [doi: 10.1016/j.envpol.2021.117036](https://doi.org/10.1016/j.envpol.2021.117036 "Persistent link using digital object identifier")
+
+2020
+
+-   **Alaasam VJ,** Keehn JE, Durso AM, French SS, Feldman CR. 2020. Ectoparasite Load Is Reduced in Side-Blotched Lizards (*Uta stansburiana*) at Wind Farms: Implications for Oxidative Stress. Physiological and Biochemical Zoology. 94(1). doi: [10.1086/712100](https://www.valentina-alaasam.com/s/Alaasam2020.pdf)
+
+2018
+
+-   **Alaasam VJ,** Duncan R, Casagrande S, Davies S, Seymoure B, Sidher A, Shen Y, Zhang Y, Ouyang JQ. 2018. Light at Night Disrupts Nocturnal Rest and Elevates Glucocorticoids at Cool Color Temperatures. Journal of Experimental Zoology Part A. 2018:1-8. doi: [10.1002/jez.2168](https://www.valentina-alaasam.com/s/jez2168.pdf)
+:::

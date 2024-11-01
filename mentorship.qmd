@@ -1,0 +1,225 @@
+---
+title: "Mentorship"
+format:
+  html:
+    theme: slate
+title-block-banner: "#00000000"
+title-block-banner-color: "#ffffff"
+include-in-header:
+  - text: |
+      <style>
+       /* Increase title font size */
+      h1 {
+        font-size: 55px; /* Adjust the size as needed */
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 10;
+      }
+      #title-block-header {
+        background-image: url(Header_mentor.JPG);
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        position: relative;   
+      }
+      .quarto-title-block .quarto-title {
+        display: none;
+      }
+      .custom-title {
+        position: absolute; /* Use absolute positioning */
+        top: 30%; /* Position 30% from the top */
+        left: 48%; /* Position 40% from the left */
+        transform: translate(-50%, -50%); /* Center the element */
+        text-align: center; /* Center text */
+        color: #ffffff; /* Text color */
+      }
+      </style>
+---
+
+::: custom-title
+<h1><strong>Mentorship</strong></h1>
+:::
+
+::: column-page
+::: columns
+::: {.column width="50%"}
+## **Urbanization and Sexual Signaling**
+
+**How is urbanization affecting hummingbird morphology and coloration?**
+
+::: {style="text-align: center;"}
+<img src="Tamia.jpg" style="width: 70%;"/>
+:::
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+\
+\
+**Tamia Tabourne**\
+Undergraduate student, Howard University
+
+Tamia participated in the New York University Summer Undergraduate Research Program (SURP), which was part of an NSF ETAP. She used spectrophotometry to measure coloration in the feathers of Puerto Rican Mangos - a species of hummingbird that has colonized both urban and forested environments in Puerto Rico. We found that urban populations have higher levels of UV reflectance in their tail feathers, and had longer tail feathers overall. Tamia presented this work in a poster at the SURP Undergraduate Research Symposium, and the Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS). This work also became her senior capstone project.
+
+Tamia is graduating with a B.S. from Howard University in 2025, and has been accepted into a Ph.D. Program at NC State.
+:::
+:::
+
+\
+\
+
+::: columns
+::: {.column width="50%"}
+## **Diet, Microbes, and City Heat**
+
+**What is the link between variations in diet, microbiome composition, and thermal tolerance?**
+
+::: {style="text-align: center;"}
+<img src="Olivia.jpg" style="width: 40%;"/>
+:::
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+\
+\
+**Olivia Weklar**\
+Ph.D. Student, New York University
+
+Olivia Weklar is a 2nd year Ph.D. student interested in how urbanization affects the gut microbiome of birds. We first started working together on a project led by Jenny Hazelhurst, asking how the gut microbiome of the Anna's hummingbird, an urban-adapted species in the western U.S., varies across a gradient of urbanization. Olivia will be presenting this work at the upcoming Society for Integrative and Comparative Biology in Atlanta, GA (2025), and we are currently preparing the manuscript for submission to Integrative and Comparative Biology.
+
+Moving forward, Olivia is now following up my postdoctoral work, asking whether the variation in thermal tolerance I found between urban and forest populations of Puerto Rican Mango might be linked to the microbiome and diet.
+:::
+:::
+
+\
+\
+
+::: columns
+::: {.column width="50%"}
+## **Luxury Effects on Biodiversity**
+
+\
+I am working with 9 undergraduate students and one M.Sc. student to conduct herp, bird, and insect surveys of across 11 parks in New York City, in a study investigating how socioeconomics affect urban biodiversity. 
+
+We have also used this project as an outreach tool. For example, we have conducted surveys with a highschool summer science program called BioBus, WNYC Radio, and even a French documentary team (filming ‘Urbana Animalis’ - hopefully coming soon!). We have also started a collaboration with the NYC Bird Alliance and joined in on some of their public bird walks around New York City.  
+
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+
+\
+\
+
+<div style="display: flex; justify-content: space-around;">
+  <figure style="width: 30%; margin: 0 5px; text-align: center;">
+    <img src="Rafael.jpeg" alt="Image 1" style="width: 100%;">
+    <figcaption>**Rafael E. Baez-Segui**<br>(M.Sc.)</figcaption>
+  </figure>
+  
+  <figure style="width: 30%; margin: 0 5px; text-align: center;">
+    <img src="Rafael.jpeg" alt="Image 2" style="width: 100%;">
+    <figcaption>**Gaia Rueda Moreno**<br>(Senior, undergrad)</figcaption>
+  </figure>
+  
+  <figure style="width: 30%; margin: 0 5px; text-align: center;">
+    <img src="Rafael.jpeg" alt="Image 3" style="width: 100%;">
+    <figcaption>**Emerald Lin**<br>(Junior, undergrad)</figcaption>
+  </figure>
+</div>
+
+:::
+:::
+
+\
+\
+
+::: columns
+::: {.column width="55%"}
+## **Behavior and Thermoregulation**
+
+::: {style="text-align: center;"}
+<img src="Saimara.jpg" style="width: 40%;"/>
+:::
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+\
+\
+**Saimara Alejandro**\
+M.Sc. Student, SUNY Buffalo
+
+The Bogert effect, or behavioral inertia, describes how behavior may enable organisms to reduce the amount of variation in their environment that they experience, thereby relaxing selective pressure on physiological traits.  Saimara Alejandro, post-baccalaureate student from the University of Puerto Rico, led a camera trap study this past summer in Puerto Rico to determine whether hummingbirds might be shifting their behavior to avoid extreme temperatures in the city.  
+
+Saimara just started a masters degree at SUNY Buffalo in the lab of Marcella Baez, where she will be continuing to build on the dataset we collected, looking into the evolution of speciation and doing an assembly of the Puerto Rican Mango Genome!
+
+
+:::
+:::
+
+\
+\
+
+::: columns
+::: {.column width="55%"}
+## **Metabolic Adaptation in an invasive insect**
+
+::: {style="text-align: center;"}
+<img src="Fallon.jpg" style="width: 40%;"/>
+:::
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+\
+\
+**Fallon Meng**\
+Ph.D. Student, New York University
+
+PhD student Fallon Meng and I are conducting a study to ask whether the metabolic rate might be changing as a mechanism of coping with urban heat, and how might this be facilitating their invasion.
+
+:::
+:::
+
+_____________________________
+
+
+\
+<div div style="background-color: #f1eeda; padding: 15px; margin: 20px 0; text-align: center; font-size: 20px;">
+  <p style="margin: 0;">
+  ## **Want to get involved?** 
+  
+  Urban fieldwork has many advantages, one of which is accessibility. Sites are usually easy to get to by car or public transportation, and often close by to Universities (if not on campus!). Because of this, I am always open to students at any level to come along, learn what we do, and participate.
+  \
+  \
+  If you live in one of the cities below, and are interested in coming out into the field, contact me via email. Come for one day, or many days, and maybe even lead an independent research project alongside my work - there are many unanswered questions in urban ecology waiting to be explored! **I am also always looking for folks interested in becoming a field site by volunteering to maintain a hummingbird feeder** - so please consider volunteering and/or spreading the word.
+  \
+  \
+  Here is a list of the cities I'll be working in the upcoming year (2025):
+  \
+  \
+  Bototá (Colombia) **·** Fusagasugá (Colombia) **·** Gamboa (Panama) **·** Panama City (Panama) **·** Seattle (Washington, USA)
+  </p>
+</div>
+
+:::

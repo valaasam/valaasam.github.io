@@ -1,0 +1,58 @@
+---
+title: "CV & Contact"
+description: "**Valentina Alaasam**"
+image: Val1.jpeg
+resources: Alaasam_CV_2024_Oct2024.pdf
+about: 
+  template: trestles
+  image-width: 25em
+  image-shape: rectangle
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:valentina.alaasam@gmail.com
+    - text: Github
+      icon: github
+      href: https://github.com/valaasam
+    - text: X
+      icon: twitter-x
+      href: https://x.com/vale_alaasam
+    - text: CV
+      icon: file-text
+      href: Alaasam_CV_2024_Oct2024.pdf
+---
+
+::: column-page
+
+**National Science Foundation Postdoctoral Research Fellow**
+
+University of Washington, Seattle, WA, USA 
+
+Smithsonian Tropical Research Institute, Gamboa, Panama
+
+2024-Current
+
+\
+**Postdoctoral Researcher**
+
+Department of Biology, New York University, NY
+
+2023-2024
+
+\
+**Ph.D. Ecology Evolution and Conservation Biology**
+
+National Science Foundation Graduate Research Fellow
+
+University of Nevada, Reno
+
+2022
+
+\
+**B.S. Biology, Green Engineering Minor**
+
+Virginia Polytechnic Institute and State University
+
+2015
+
+:::
