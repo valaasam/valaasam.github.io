@@ -2,7 +2,7 @@
 title: "CV & Contact"
 description: "**Valentina Alaasam**"
 image: Val1.jpeg
-resources: Alaasam_CV_2024_Oct2024.pdf
+resources: Alaasam_CV_Oct2024.pdf
 about: 
   template: trestles
   image-width: 25em
@@ -19,14 +19,13 @@ about:
       href: https://x.com/vale_alaasam
     - text: CV
       icon: file-text
-      href: Alaasam_CV_2024_Oct2024.pdf
+      href: Alaasam_CV_Oct2024.pdf
 ---
 
 ::: column-page
-
 **National Science Foundation Postdoctoral Research Fellow**
 
-University of Washington, Seattle, WA, USA 
+University of Washington, Seattle, WA, USA
 
 Smithsonian Tropical Research Institute, Gamboa, Panama
 
@@ -54,5 +53,4 @@ University of Nevada, Reno
 Virginia Polytechnic Institute and State University
 
 2015
-
 :::
