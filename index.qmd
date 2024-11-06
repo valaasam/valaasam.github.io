@@ -28,11 +28,21 @@ include-in-header:
       }
       .custom-title {
         position: absolute; /* Use absolute positioning */
-        top: 30%; /* Position 30% from the top */
-        left: 50%; /* Position 40% from the left */
+        top: 35%; /* Position 50% from the top to center vertically */
+        left: 50%; /* Position 50% from the left */
         transform: translate(-50%, -50%); /* Center the element */
         text-align: center; /* Center text */
-        color: #ffffff; /* Text color */
+        color: #ffffff; /* White text color */
+        font-size: 30px; /* Title font size */
+      }
+      .custom-description {
+        position: absolute;
+        top: 45%; /* Position below the title */
+        left: 50%; /* Center horizontally */
+        transform: translateX(-50%); /* Adjust for exact centering */
+        color: #ffffff; /* White text color */
+        font-size: 12px; /* Description font size */
+        font-style: italic; /* Italicize the description */
       }
       </style>
 ---
@@ -55,11 +65,10 @@ I am currently an NSF postdoctoral fellow studying how hummingbirds are adapting
 
 \
 
-In my free time, I rock climb, backpack, run, ski uphill, cook, craft, practice reversing self-deprecation culture, and fight for social justice in both science and outdoor spaces.
+In my free time, I rock climb, backpack, run, ski uphill, cook, craft, practice reversing self-deprecation culture, and fight for social justice in both science and outdoor spaces. Learn more about me [here](https://valaasam.github.io/about.html).
 :::
 
 ::: right
-\
 \
 \
 ![](Val_main.JPG){width="500"}

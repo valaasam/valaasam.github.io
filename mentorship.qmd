@@ -27,11 +27,12 @@ include-in-header:
       }
       .custom-title {
         position: absolute; /* Use absolute positioning */
-        top: 30%; /* Position 30% from the top */
-        left: 48%; /* Position 40% from the left */
+        top: 35%; /* Position 50% from the top to center vertically */
+        left: 50%; /* Position 50% from the left */
         transform: translate(-50%, -50%); /* Center the element */
         text-align: center; /* Center text */
-        color: #ffffff; /* Text color */
+        color: #ffffff; /* White text color */
+        font-size: 30px; /* Title font size */
       }
       </style>
 ---
@@ -40,7 +41,16 @@ include-in-header:
 <h1><strong>Mentorship</strong></h1>
 :::
 
+
 ::: column-page
+
+<p style="font-size: 25px;">
+  <a href="#section-link">**Interested in working with me?**</a>
+</p>
+
+
+\
+
 ::: columns
 ::: {.column width="50%"}
 ## **Urbanization and Sexual Signaling**
@@ -201,6 +211,34 @@ PhD student Fallon Meng and I are conducting a study to ask whether the metaboli
 :::
 :::
 
+
+\
+\
+
+::: columns
+::: {.column width="55%"}
+## **Artificial light at night & circadian rhythms**
+
+::: {style="text-align: center;"}
+<img src="alan1.jpg" style="width: 40%;"/>
+:::
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+\
+\
+During my doctorate I studied how light pollution disrupts circadian rhythms in birds. To do this, we occasionally had to stay awake for 24 hours, to get a snapshot of what was going on inside of a bird’s brain at all hours of the night. Spoiler alert - not getting enough sleep stresses birds out, and staying up all night to document it stresses us out too! Thankfully, I had some amazing undergraduate students and we got creative, finding ways to keep ourselves awake and in a good mood, like painting and making silly over-caffeinated videos. 
+
+:::
+:::
+
+
+
+
 ------------------------------------------------------------------------
 
 \
@@ -208,7 +246,7 @@ PhD student Fallon Meng and I are conducting a study to ask whether the metaboli
 ::: {div="" style="background-color: #f1eeda; padding: 15px; margin: 20px 0; text-align: center; font-size: 20px;"}
 <p style="margin: 0;">
 
-## **Want to get involved?**
+## **Want to get involved?** {#section-link}
 
 Urban fieldwork has many advantages, one of which is accessibility. Sites are usually easy to get to by car or public transportation, and often close by to Universities (if not on campus!). Because of this, I am always open to students at any level to come along, learn what we do, and participate.\
 \

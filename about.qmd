@@ -27,11 +27,12 @@ include-in-header:
       }
       .custom-title {
         position: absolute; /* Use absolute positioning */
-        top: 30%; /* Position 30% from the top */
-        left: 49%; /* Position 40% from the left */
+        top: 35%; /* Position 50% from the top to center vertically */
+        left: 50%; /* Position 50% from the left */
         transform: translate(-50%, -50%); /* Center the element */
         text-align: center; /* Center text */
-        color: #ffffff; /* Text color */
+        color: #ffffff; /* White text color */
+        font-size: 30px; /* Title font size */
       }
       </style>
 ---
