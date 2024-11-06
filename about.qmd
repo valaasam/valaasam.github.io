@@ -19,7 +19,7 @@ include-in-header:
         background-image: url(header_about.jpg);
         background-size: cover;
         background-position: center;
-        height: 400px;
+        height: 500px;
         position: relative;   
       }
       .quarto-title-block .quarto-title {
@@ -48,13 +48,12 @@ The action of doing science - asking questions, taking measurements, testing hyp
 \
 Here are some of the things I am especially passionate about:\
 \
-**<a href="#section-one">Conservation</a>** **·** **<a href="#section-two">Education</a>** **·** **<a href="#section-three">DEI</a>** 
+<a href="#section-one">Conservation</a> **·** <a href="#section-two">Education</a> **·** <a href="#section-three">DEI</a>
 
 </p>
 :::
 
 \
-
 
 ::: columns
 ::: {.column width="50%"}
@@ -132,24 +131,35 @@ Diversifying the faces and voices at the table of STEM and academia is thus a cr
 ------------------------------------------------------------------------
 
 <!-- ::: columns -->
+
 <!-- ::: {.column width="45%"} -->
+
 <!-- \ -->
+
 <!-- \ -->
+
 <!-- \ -->
+
 <!-- ![](About_4.png) -->
+
 <!-- ::: -->
 
 <!-- ::: {.column width="10%"} -->
-<!-- <!-- empty column to create gap --> 
+
+<!-- <!-- empty column to create gap -->
+
 <!-- ::: -->
 
 <!-- ::: {.column width="45%"} -->
+
 <!-- # **Work-life balance** {#section-four} -->
 
 <!-- On the first day of my graduate program, I had 2 initial impressions. The first was how kind, passionate, and intelligent the graduate students and faculty were. The second was how stressed and sad everyone seemed. -->
 
 <!-- Current perceptions of how to balance an academic career with personal life are outdated, posing a disservice to the majority of scientists today. The concept of WLB was originally developed over a period when cis-white males held the majority of STEM and higher ed positions. Therefore, sewn into the norms and expectations of this career are assumptions of a gender binary, gendered roles, and a nuclear family structure. resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. Though we appear to be approaching equal gender representation in eco-evo, metrics of evaluating success and productivity, and the internalized expectations we place on ourselves, are lagging behind, disproportionately affecting the achievement of WLB for historically underrepresented groups. -->
+
 <!-- ::: -->
+
 <!-- ::: -->
 
 <!-- Achieving work life balance can be a particular challenge for academics in ecology and evolution. For many, the way we relate to our research programs or curricula can be quite personal, interwoven with our non-work passions and priorities. Intense periods of field or lab work, short-term positions, and frequent moves are common, especially in earlier career stages when our personal lives are also the most in flux. Moreover, our daily, monthly, and annual schedules and workloads can be extremely individualized; even colleagues at similar types of institutions or studying similar systems can have vastly different schedules, institutional expectations, and mosaics of responsibility (e.g. teaching, mentorship, service, research, etc.). -->

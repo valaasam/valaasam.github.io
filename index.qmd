@@ -4,7 +4,6 @@ description: "Behavior * Physiology * Urbanization * Evolution"
 format:
   html:
     theme: slate
-    fontsize: 1rem
 title-block-banner: "#00000000"
 title-block-banner-color: "#ffffff"
 include-in-header:
@@ -21,7 +20,7 @@ include-in-header:
         background-image: url(header_main.jpg);
         background-size: cover;
         background-position: center;
-        height: 400px;
+        height: 500px;
         position: relative;   
       }
       .quarto-title-block .quarto-title {
@@ -52,7 +51,7 @@ I am an integrative biologist interested in the behavioral, physiological, and e
 
 \
 
-I am currently an NSF postdoctoral fellow studying how hummingbirds are adapting to urbanization. I received my Ph.D. in Ecology, Evolution and Conservation Biology from the University of Nevada, Reno, where my dissertation focused on the effects of light pollution on sleep, circadian rhythms, and stress physiology in zebra finches. Check out my research page for more information.
+I am currently an NSF postdoctoral fellow studying how hummingbirds are adapting to urbanization. I received my Ph.D. in Ecology, Evolution and Conservation Biology from the University of Nevada, Reno, where my dissertation focused on the effects of light pollution on sleep, circadian rhythms, and stress physiology in zebra finches. Check out my [research page](https://valaasam.github.io/research.html) for more information.
 
 \
 
@@ -60,6 +59,9 @@ In my free time, I rock climb, backpack, run, ski uphill, cook, craft, practice 
 :::
 
 ::: right
+\
+\
+\
 ![](Val_main.JPG){width="500"}
 :::
 :::

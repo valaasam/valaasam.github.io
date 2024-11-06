@@ -19,7 +19,7 @@ format:
   html:
     theme: flatly
     mainfont: arial
-    fontsize: 1rem
+    fontsize: 1.2rem
     #fontcolor: "#0013d5"
     #linkcolor: "#ff33f0"
     #monofont: courier new

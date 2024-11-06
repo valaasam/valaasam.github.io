@@ -21,7 +21,7 @@ include-in-header:
         background-image: url(Header_press2.jpg);
         background-size: cover;
         background-position: center;
-        height: 400px;
+        height: 500px;
         position: relative;   
       }
       .quarto-title-block .quarto-title {
@@ -81,5 +81,5 @@ include-in-header:
 • Natural History Museum, University of Nevada, Reno (multiple annual events) *2017-22*\
 - Girl Scouts, Day at the Museum, Big Brothers Big Sisters\
 • Volunteer, Northern Nevada Resettlement and Placement Program, Reno, NV *2018-19*\
-• Volunteer, Coalition for Refugee Resettlement, Blacksburg, VA *2014-15* \
+• Volunteer, Coalition for Refugee Resettlement, Blacksburg, VA *2014-15*\
 :::

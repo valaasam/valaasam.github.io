@@ -19,7 +19,7 @@ include-in-header:
         background-image: url(header_research.jpg);
         background-size: cover;
         background-position: center;
-        height: 400px;
+        height: 500px;
         position: relative;   
       }
       .quarto-title-block .quarto-title {
@@ -78,8 +78,6 @@ For 4 billion years life has evolved under dark nights, brightened only by the m
 ## **How are hummingbirds adapting to urbanization?**
 
 What kind of adaptations allow urban exploitation of certain species or populations? **As an NSF Postdoctoral Fellow**, I am studying hummingbirds that live in cities (and those that don't) to understand how populations are locally adapting to urban landscapes. I am measuring morphological and physiological traits, as well as sequencing their genome in order to identify the eco-evolutionary processes governing species responses to urbanization. This work is in collaboration with Dr. Kristin Winchell at New York University, Dr. Alejandro Rico-Guevara at the University of Washington, and Dr. Owen McMillan at the Smithsonian Tropical Research Institute.
-
-
 :::
 
 ::: {.column width="5%"}
@@ -96,9 +94,7 @@ What kind of adaptations allow urban exploitation of certain species or populati
 :::
 
 ::: {style="display: flex; justify-content: space-around;"}
-<img src="Research1.JPG" alt="Image 1" style="width: 30%; margin: 0 10px;"/> 
-<img src="hum2.jpeg" alt="Image 2" style="width: 30%; margin: 0 10px;"/> 
-<img src="hum4.JPG" alt="Image 3" style="width: 33%; margin: 0 10px;"/>
+<img src="Research1.JPG" alt="Image 1" style="width: 30%; margin: 0 10px;"/> <img src="hum2.jpeg" alt="Image 2" style="width: 30%; margin: 0 10px;"/> <img src="hum4.JPG" alt="Image 3" style="width: 33%; margin: 0 10px;"/>
 :::
 
 \
@@ -109,7 +105,6 @@ What kind of adaptations allow urban exploitation of certain species or populati
 ## **Luxury Effects in Urban Ecosystems**
 
 Spatially distant cities often resemble each other more than surrounding natural habitats. However, within urban landscapes there is also substantial heterogeneity, as greenness often covaries with socioeconomic variables such as household income and historical redlining. This can lead to the "Luxury Effect" where biodiversity is positively correlated with surrounding affluence. I am interested in understanding how the socioeconomic landscape effects urban wildlife, & and understanding how public repositories such as iNaturalist and eBird may contribute to potential biases based on user demographics. My current project examining luxury effects on biodiversity in **New York City parks** has received some amazing support from the broader NYC community! Check out this blog post, article in the Gothamist (and **WNYC Radio**), and short video below.
-
 :::
 
 ::: {.column width="5%"}
@@ -126,12 +121,8 @@ Spatially distant cities often resemble each other more than surrounding natural
 :::
 
 ::: {style="display: flex; justify-content: space-around;"}
-<img src="Research4.jpg" alt="Image 1" style="width: 31%; margin: 0 10px;"/> 
-<img src="le2.jpg" alt="Image 2" style="width: 31%; margin: 0 10px;"/> 
-<img src="le3.jpg" alt="Image 3" style="width: 31%; margin: 0 10px;"/>
+<img src="Research4.jpg" alt="Image 1" style="width: 31%; margin: 0 10px;"/> <img src="le2.jpg" alt="Image 2" style="width: 31%; margin: 0 10px;"/> <img src="le3.jpg" alt="Image 3" style="width: 31%; margin: 0 10px;"/>
 :::
-
-
 
 \
 \

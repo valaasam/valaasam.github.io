@@ -19,7 +19,7 @@ include-in-header:
         background-image: url(Header_mentor.JPG);
         background-size: cover;
         background-position: center;
-        height: 400px;
+        height: 500px;
         position: relative;   
       }
       .quarto-title-block .quarto-title {
