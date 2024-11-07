@@ -41,13 +41,10 @@ include-in-header:
 <h1><strong>Mentorship</strong></h1>
 :::
 
-
 ::: column-page
-
-<p style="font-size: 25px;">
-  <a href="#section-link">**Interested in working with me?**</a>
-</p>
-
+<div style="text-align: center;">
+## <a href="#section-link">**Interested in working with me?**</a>
+</div>
 
 \
 
@@ -207,10 +204,9 @@ Saimara just started a masters degree at SUNY Buffalo in the lab of Marcella Bae
 **Fallon Meng**\
 Ph.D. Student, New York University
 
-PhD student Fallon Meng and I are conducting a study to ask whether the metabolic rate might be changing as a mechanism of coping with urban heat, and how might this be facilitating their invasion.
+The spotted lanternfly is an invasive moth that has been expanding its range rapidly across the Eastern United States, posing an agricultural threat, and is especially common in cities. Ph.D. student Fallon Meng and I are conducting a study to determine whether the metabolic rate of spotted lanternflies might be changing as a mechanism for coping with urban heat, and how this might be facilitating their invasion.
 :::
 :::
-
 
 \
 \
@@ -231,19 +227,15 @@ PhD student Fallon Meng and I are conducting a study to ask whether the metaboli
 ::: {.column width="40%"}
 \
 \
-During my doctorate I studied how light pollution disrupts circadian rhythms in birds. To do this, we occasionally had to stay awake for 24 hours, to get a snapshot of what was going on inside of a bird’s brain at all hours of the night. Spoiler alert - not getting enough sleep stresses birds out, and staying up all night to document it stresses us out too! Thankfully, I had some amazing undergraduate students and we got creative, finding ways to keep ourselves awake and in a good mood, like painting and making silly over-caffeinated videos. 
-
+During my doctorate I studied how light pollution disrupts circadian rhythms in birds. To do this, we occasionally had to stay awake for 24 hours, to get a snapshot of what was going on inside of a bird's brain at all hours of the night. Spoiler alert - not getting enough sleep stresses birds out, and staying up all night to document it stresses us out too! Thankfully, I had some amazing undergraduate students and we got creative, finding ways to keep ourselves awake and in a good mood, like painting and making silly over-caffeinated videos.
 :::
 :::
-
-
-
 
 ------------------------------------------------------------------------
 
 \
 
-::: {div="" style="background-color: #f1eeda; padding: 15px; margin: 20px 0; text-align: center; font-size: 20px;"}
+::: {div="" style="background-color: #d6e6d4; padding: 15px; margin: 20px 0; text-align: center; font-size: 20px;"}
 <p style="margin: 0;">
 
 ## **Want to get involved?** {#section-link}
@@ -257,5 +249,59 @@ Here is a list of the cities I'll be working in the upcoming year (2025):\
 Bogotá (Colombia) **·** Fusagasugá (Colombia) **·** Gamboa (Panama) **·** Panama City (Panama) **·** Seattle (Washington, USA)
 
 </p>
+:::
+
+::: {style="display: flex; justify-content: space-around;"}
+<figure style="width: 30%; margin: 0 5px; text-align: center;">
+
+<img src="engage2.jpg" alt="Image 1" style="width: 100%;"/>
+
+<figcaption>
+
+</figcaption>
+
+</figure>
+
+<figure style="width: 30%; margin: 0 5px; text-align: center;">
+
+<img src="engage3.jpg" alt="Image 2" style="width: 98%;"/>
+
+<figcaption>
+
+</figcaption>
+
+</figure>
+
+<figure style="width: 30%; margin: 0 5px; text-align: center;">
+
+<img src="engage6.jpeg" alt="Image 3" width="100%"/>
+
+<figcaption>
+
+</figcaption>
+
+</figure>
+:::
+
+::: {style="display: flex; justify-content: space-around;"}
+<figure style="width: 50%; margin: 0 75px; text-align: center;">
+
+<img src="engage4.jpg" alt="Image 1" style="width: 100%;"/>
+
+<figcaption>
+
+</figcaption>
+
+</figure>
+
+<figure style="width: 50%; margin: 0 5px; text-align: center;">
+
+<img src="engage1.jpg" alt="Image 3" width="50%"/>
+
+<figcaption>
+
+</figcaption>
+
+</figure>
 :::
 :::

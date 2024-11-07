@@ -39,29 +39,18 @@ include-in-header:
 ---
 
 ::: custom-title
-<h1><strong>Sci Comm · Press · Outreach</strong></h1>
+<h1><strong>Press, Media and Sci Comm</strong></h1>
 :::
 
 ::: column-page
+
+<div style="line-height: 2.0;">
+
 ## **Radio and podcasts**
 
 • [WYNC News and NPR Morning Edition.](https://gothamist.com/news/are-parks-in-nycs-wealthier-areas-more-biodiverse-nyu-researchers-want-to-find-out) *July 20, 2024*\
-• [Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299) Live performance. New York, NY, USA. *May 16, 2024*\
+• [Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299) Podcast. New York, NY, USA. *May 16, 2024*\
 • Nerd Nite Reno. ["Getting Nerdy About Light Pollution".](https://open.spotify.com/episode/3KQRv1Np7VInFDItRYNgfT?si=da6q9QWZS628t4DprPN5ag) Podcast. *July 2020*
-
-## **Invited public talks and webinars**
-
-• Soapbox Science, New York, NY. Live Talk *August 23, 2024*\
-• [Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299) New York, NY, USA. *May 16, 2024* Podcast.\
-• [Smithsonian National Museum of Natural History.](https://naturalhistory.si.edu/events/events-adults/video-webinars-outbreak-epidemics-connected-world/lights-out-effects-light-pollution-bird-health) Live Webinar. *April 12, 2023*\
-• Science in the wild: Patagonia and Friends of Nevada Wilderness. Live Talk. Reno, NV, USA. *March 9, 2023*\
-• Lahontan Audubon Society. Reno, NV, USA. Live Talk. *March 28, 2023*\
-• Altacal Audubon Society. Live Virtual Talk. *February 20, 2023*\
-• [San Francisco Bay Bird Observatory: Birdy Hour.](https://www.youtube.com/watch?v=XD5D8KV5ijU) Live Virtual Talk. San Francisco, CA, USA. *May 16, 2022*\
-• 3-minute thesis competition. Live Talk. *2018*\
-- University of Nevada, Reno, USA. First place\
-- University of Arizona, Phoenix, AZ, USA. Regional Competition\
-• [Earth Day and Light Pollution -- Air and Space Live Chat.](https://www.youtube.com/watch?v=C4Ox5N8kOMk) Smithsonian National Air and Space Museum. *May 4, 2021*
 
 ## **Featured press and science media**
 
@@ -74,12 +63,17 @@ include-in-header:
 • Hirschlag A. ["How light pollution disrupts plants' senses."](https://www.bbc.com/future/article/20230308-how-light-pollution-disrupts-plants-senses) BBC Future. *March 8, 2023*\
 • Johnson K. ["Urban Wildlife: How noise and light pollution affect birds".](https://hitchcockproject.org/research-on-bird-stress-responses/) The Hitchcock Project for Visualizing Science. *December 20, 2020*
 
-## **Events and other outreach**
+## **Invited public talks and webinars**
 
-• Biodiversity survey & STEM careers presentation with BioBus Junior Scientists, New York, NY *2024*\
-• TRiO and McNair first-Gen student panel for high school students, Reno, NV *2022*\
-• Natural History Museum, University of Nevada, Reno (multiple annual events) *2017-22*\
-- Girl Scouts, Day at the Museum, Big Brothers Big Sisters\
-• Volunteer, Northern Nevada Resettlement and Placement Program, Reno, NV *2018-19*\
-• Volunteer, Coalition for Refugee Resettlement, Blacksburg, VA *2014-15*\
+• Soapbox Science, New York, NY. *August 23, 2024*\
+• [Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299) Podcast. New York, NY, USA. *May 16, 2024*\
+• [Smithsonian National Museum of Natural History.](https://naturalhistory.si.edu/events/events-adults/video-webinars-outbreak-epidemics-connected-world/lights-out-effects-light-pollution-bird-health) Live Webinar. *April 12, 2023*\
+• Science in the wild: Patagonia and Friends of Nevada Wilderness. Live Talk. Reno, NV, USA. *March 9, 2023*\
+• Lahontan Audubon Society. Reno, NV, USA. *March 28, 2023*\
+• Altacal Audubon Society. Live Virtual Talk. *February 20, 2023*\
+• [San Francisco Bay Bird Observatory: Birdy Hour.](https://www.youtube.com/watch?v=XD5D8KV5ijU) San Francisco, CA, USA. *May 16, 2022*\
+• [Earth Day and Light Pollution -- Air and Space Live Chat.](https://www.youtube.com/watch?v=C4Ox5N8kOMk) Smithsonian National Air and Space Museum. *May 4, 2021*
+
+</div>
+
 :::
