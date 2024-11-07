@@ -42,9 +42,9 @@ include-in-header:
 :::
 
 ::: column-page
-<div style="text-align: center;">
+::: {style="text-align: center;"}
 ## <a href="#section-link">**Interested in working with me?**</a>
-</div>
+:::
 
 \
 
@@ -294,15 +294,15 @@ Bogotá (Colombia) **·** Fusagasugá (Colombia) **·** Gamboa (Panama) **·** P
 
 </figure>
 
+
 <figure style="width: 50%; margin: 0 75px; text-align: center;">
 
-<img src="engage1.jpg" alt="Image 1" style="width: 100%;"/>
+<img src="engage7.jpg" alt="Image 1" style="width: 95%;"/>
 
 <figcaption>
 
 </figcaption>
 
 </figure>
-
 :::
 :::
