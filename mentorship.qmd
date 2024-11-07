@@ -288,21 +288,18 @@ Bogotá (Colombia) **·** Fusagasugá (Colombia) **·** Gamboa (Panama) **·** P
 
 <img src="engage4.jpg" alt="Image 1" style="width: 100%;"/>
 
-<figcaption>
-
-</figcaption>
+<figcaption> </figcaption>
 
 </figure>
 
 
 <figure style="width: 50%; margin: 0 75px; text-align: center;">
 
-<img src="engage8.JPG" alt="Image 1" style="width: 95%;"/>
+<img src="engage8.JPG" alt="Image1" style="width: 95%;"/>
 
-<figcaption>
-
-</figcaption>
+<figcaption> </figcaption>
 
 </figure>
+
 :::
 :::
