@@ -19,7 +19,7 @@ include-in-header:
         background-image: url(Header_mentor.JPG);
         background-size: cover;
         background-position: center;
-        height: 500px;
+        height: 80vh;
         position: relative;   
       }
       .quarto-title-block .quarto-title {
@@ -27,12 +27,13 @@ include-in-header:
       }
       .custom-title {
         position: absolute; /* Use absolute positioning */
-        top: 35%; /* Position 50% from the top to center vertically */
+        top: 50%; /* Position 50% from the top to center vertically */
         left: 50%; /* Position 50% from the left */
         transform: translate(-50%, -50%); /* Center the element */
         text-align: center; /* Center text */
         color: #ffffff; /* White text color */
-        font-size: 30px; /* Title font size */
+        padding: 0 5px; /* Add some padding to prevent text from touching the edges */
+        max-width: 90%; /* Limit width of the title for responsiveness */
       }
       </style>
 ---
@@ -292,14 +293,6 @@ Bogotá (Colombia) **·** Fusagasugá (Colombia) **·** Gamboa (Panama) **·** P
 
 </figure>
 
-
-<figure style="width: 50%; margin: 0 75px; text-align: center;">
-
-<img src="engage8.JPG" alt="Image1" style="width: 95%;"/>
-
-<figcaption> </figcaption>
-
-</figure>
 
 :::
 :::

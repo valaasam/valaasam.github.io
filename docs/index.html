@@ -70,14 +70,11 @@ background: #00000000;
 h1 {
   font-size: 55px; /* Adjust the size as needed */
 }
-.quarto-title-block .quarto-title-banner {
-  height: 10;
-}
 #title-block-header {
   background-image: url(header_main.jpg);
   background-size: cover;
   background-position: center;
-  height: 500px;
+  height: 80vh;
   position: relative;
 }
 .quarto-title-block .quarto-title {
@@ -85,21 +82,14 @@ h1 {
 }
 .custom-title {
   position: absolute; /* Use absolute positioning */
-  top: 35%; /* Position 50% from the top to center vertically */
+  top: 50%; /* Position 50% from the top to center vertically */
   left: 50%; /* Position 50% from the left */
   transform: translate(-50%, -50%); /* Center the element */
   text-align: center; /* Center text */
   color: #ffffff; /* White text color */
-  font-size: 30px; /* Title font size */
-}
-.custom-description {
-  position: absolute;
-  top: 45%; /* Position below the title */
-  left: 50%; /* Center horizontally */
-  transform: translateX(-50%); /* Adjust for exact centering */
-  color: #ffffff; /* White text color */
-  font-size: 12px; /* Description font size */
-  font-style: italic; /* Italicize the description */
+  font-size: 30px;
+  padding: 0 5px; /* Add some padding to prevent text from touching the edges */
+  max-width: 90%; /* Limit width of the title for responsiveness */
 }
 </style>
 
