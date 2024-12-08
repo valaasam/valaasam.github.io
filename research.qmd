@@ -96,12 +96,14 @@ What kind of adaptations allow urban exploitation of certain species or populati
 :::
 :::
 
+
+
 ::: {style="display: flex; justify-content: space-around;"}
 <figure style="width: 30%; margin: 0 10px; text-align: center;">
 
 <img src="Research1.JPG" alt="Image 1" style="width: 100%;"/>
 
-<figcaption>Green-throated Carib, San Juan, PR.</figcaption>
+<figcaption style="font-size: 14px;">Green-throated Carib, San Juan, PR.</figcaption>
 
 </figure>
 
@@ -109,7 +111,7 @@ What kind of adaptations allow urban exploitation of certain species or populati
 
 <img src="hum2.jpeg" alt="Image 2" style="width: 100%;"/>
 
-<figcaption>Alyssa Sargent and I working in one of our favorite backyards, Fall 2023.</figcaption>
+<figcaption style="font-size: 14px;">Alyssa Sargent and I working in one of our favorite backyards, Fall 2023.</figcaption>
 
 </figure>
 
@@ -117,7 +119,7 @@ What kind of adaptations allow urban exploitation of certain species or populati
 
 <img src="hum5.jpg" alt="Image 3" width="102%"/>
 
-<figcaption>Puerto Rican Mango (male), Dorado, PR. Red marking on the crown is a small dot of non-toxic fabric paint that we place to identify and avoid recapturing the same individual.</figcaption>
+<figcaption style="font-size: 14px;">Puerto Rican Mango (male), Dorado, PR. Red marking on the crown is a small dot of non-toxic fabric paint that we place to identify and avoid recapturing the same individual.</figcaption>
 
 </figure>
 :::

@@ -142,7 +142,7 @@ We have also used this project as an outreach tool. For example, we have conduct
 
 <img src="Rafael.jpeg" alt="Image 1" style="width: 100%;"/>
 
-<figcaption>**Rafael E. Baez-Segui** (M.Sc.)</figcaption>
+<figcaption style="font-size: 14px;">**Rafael E. Baez-Segui** (M.Sc. student)</figcaption>
 
 </figure>
 
@@ -150,7 +150,7 @@ We have also used this project as an outreach tool. For example, we have conduct
 
 <img src="Gaia.jpeg" alt="Image 2" style="width: 100%;"/>
 
-<figcaption>**Gaia Rueda Moreno**<br>(Senior, undergrad)</figcaption>
+<figcaption style="font-size: 14px;">**Gaia Rueda Moreno**<br>(Senior, undergrad)</figcaption>
 
 </figure>
 
@@ -158,7 +158,7 @@ We have also used this project as an outreach tool. For example, we have conduct
 
 <img src="Emerald.jpeg" alt="Image 3" width="102%"/>
 
-<figcaption>**Emerald Lin**<br>(Junior, undergrad)</figcaption>
+<figcaption style="font-size: 14px;">**Emerald Lin**<br>(Junior, undergrad)</figcaption>
 
 </figure>
 :::
