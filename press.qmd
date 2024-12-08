@@ -46,6 +46,9 @@ include-in-header:
 
 ::: column-page
 
+::: columns
+::: {.column width="63%"}
+
 <div style="line-height: 2.0;">
 
 ## **Radio and podcasts**
@@ -56,6 +59,7 @@ include-in-header:
 
 ## **Featured press and science media**
 
+• Burakoff, M. ["Science Is Revealing the Social Disparities at the Root of Urban Ecosystems."](https://www.audubon.org/magazine/science-revealing-social-disparities-root-urban-ecosystems) Audubon Magazine. *Dec, 2024*\
 • Misdary, R. ["Are parks in NYC's wealthier areas more biodiverse? NYU researchers want to find out."](https://gothamist.com/news/are-parks-in-nycs-wealthier-areas-more-biodiverse-nyu-researchers-want-to-find-out) The Gothamist. *July 20, 2024*\
 • Sargent, A. ["The Ties Between Wealth and Wildlife in NYC: An Interview with Dr. Valentina Alaasam".](https://integrativeandcomparativebiology.wordpress.com/2024/07/02/the-ties-between-wealth-and-wildlife-in-nyc-an-interview-with-dr-valentina-alaasam/) Integrative and Comparative Biology Blog. *July 2, 2024*\
 • Reynolds E. ["What To Know about the 2024 Total Eclipse: Tips from NYU experts on eye safety, photography, animal behavior, and more ahead of the sun's big show".](https://www.nyu.edu/about/news-publications/news/2024/march/eclipse-guide-2024.html) NYU News. *March 29, 2024*\
@@ -78,4 +82,33 @@ include-in-header:
 
 </div>
 
+:::
+
+
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+
+::: {.column width="35%"}
+
+::: {style="text-align: center;"}
+<img src="press1.jpg" style="width: 100%; margin: 0 10px;"/>
+:::
+
+::: {style="text-align: center;"}
+<img src="press2.png" style="width: 100%; margin: 0 10px;"/>
+:::
+
+::: {style="text-align: center;"}
+<img src="press3.png" style="width: 100%; margin: 0 10px;"/>
+:::
+
+::: {style="text-align: center;"}
+<img src="press4.png" style="width: 100%; margin: 0 10px;"/>
+:::
+
+:::
+
+:::
 :::

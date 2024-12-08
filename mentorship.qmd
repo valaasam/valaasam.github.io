@@ -53,10 +53,14 @@ include-in-header:
 ::: {.column width="50%"}
 ## **Urbanization and Sexual Signaling**
 
-**How is urbanization affecting hummingbird morphology and coloration?**
+::: {style="text-align: center;"}
+<img src="tamia1.jpeg" style="width: 32%; margin: 0 10px;"/>
+<img src="Tamia.jpg" style="width: 57%; margin: 0 10px;"/>
+:::
 
 ::: {style="text-align: center;"}
-<img src="Tamia.jpg" style="width: 70%;"/>
+<img src="tamia4.jpg" style="width: 52%; margin: 0 10px;"/>
+<img src="tamia3.jpg" style="width: 37%; margin: 0 10px;"/>
 :::
 :::
 
@@ -65,10 +69,11 @@ include-in-header:
 :::
 
 ::: {.column width="45%"}
-\
-\
+
 **Tamia Tabourne**\
-Undergraduate student, Howard University
+*Undergraduate student, Howard University*
+
+**How is urbanization affecting hummingbird morphology and coloration?**\
 
 Tamia participated in the New York University Summer Undergraduate Research Program (SURP), which was part of an NSF ETAP. She used spectrophotometry to measure coloration in the feathers of Puerto Rican Mangos - a species of hummingbird that has colonized both urban and forested environments in Puerto Rico. We found that urban populations have higher levels of UV reflectance in their tail feathers, and had longer tail feathers overall. Tamia presented this work in a poster at the SURP Undergraduate Research Symposium, and the Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS). This work also became her senior capstone project.
 
@@ -83,10 +88,15 @@ Tamia is graduating with a B.S. from Howard University in 2025, and has been acc
 ::: {.column width="50%"}
 ## **Diet, Microbes, and City Heat**
 
-**What is the link between variations in diet, microbiome composition, and thermal tolerance?**
 
 ::: {style="text-align: center;"}
-<img src="Olivia.jpg" style="width: 40%;"/>
+<img src="Olivia.jpg" style="width: 45%; margin: 0 10px;"/>
+<img src="olivia2.jpeg" style="width: 45%; margin: 0 10px;"/>
+:::
+
+::: {style="text-align: center;"}
+<img src="olivia3.jpg" style="width: 57.5%; margin: 0 10px;"/>
+<img src="olivia4.jpg" style="width: 32.5%; margin: 0 10px;"/>
 :::
 :::
 
@@ -95,10 +105,11 @@ Tamia is graduating with a B.S. from Howard University in 2025, and has been acc
 :::
 
 ::: {.column width="45%"}
-\
-\
+
 **Olivia Weklar**\
-Ph.D. Student, New York University
+*Ph.D. Student, New York University*
+
+**What is the link between variations in diet, microbiome composition, and thermal tolerance?**
 
 Olivia Weklar is a 2nd year Ph.D. student interested in how urbanization affects the gut microbiome of birds. We first started working together on a project led by Jenny Hazelhurst, asking how the gut microbiome of the Anna's hummingbird, an urban-adapted species in the western U.S., varies across a gradient of urbanization. Olivia will be presenting this work at the upcoming Society for Integrative and Comparative Biology in Atlanta, GA (2025), and we are currently preparing the manuscript for submission to Integrative and Comparative Biology.
 
@@ -113,7 +124,6 @@ Moving forward, Olivia is now following up my postdoctoral work, asking whether 
 ::: {.column width="50%"}
 ## **Luxury Effects on Biodiversity**
 
-\
 I am working with 9 undergraduate students and one M.Sc. student to conduct herp, bird, and insect surveys of across 11 parks in New York City, in a study investigating how socioeconomics affect urban biodiversity.
 
 We have also used this project as an outreach tool. For example, we have conducted surveys with a highschool summer science program called BioBus, WNYC Radio, and even a French documentary team (filming 'Urbana Animalis' - hopefully coming soon!). We have also started a collaboration with the NYC Bird Alliance and joined in on some of their public bird walks around New York City.
@@ -163,7 +173,13 @@ We have also used this project as an outreach tool. For example, we have conduct
 ## **Behavior and Thermoregulation**
 
 ::: {style="text-align: center;"}
-<img src="Saimara.jpg" style="width: 40%;"/>
+<img src="sai1.jpeg" style="width: 36.5%; margin: 0 10px;"/>
+<img src="sai2.jpg" style="width: 55%; margin: 0 10px;"/>
+:::
+
+::: {style="text-align: center;"}
+<img src="sai3.jpg" style="width: 32%; margin: 0 10px;"/>
+<img src="sai4.jpg" style="width: 60%; margin: 0 10px;"/>
 :::
 :::
 
@@ -173,9 +189,8 @@ We have also used this project as an outreach tool. For example, we have conduct
 
 ::: {.column width="40%"}
 \
-\
 **Saimara Alejandro**\
-M.Sc. Student, SUNY Buffalo
+*M.Sc. Student, SUNY Buffalo*
 
 The Bogert effect, or behavioral inertia, describes how behavior may enable organisms to reduce the amount of variation in their environment that they experience, thereby relaxing selective pressure on physiological traits. Saimara Alejandro, post-baccalaureate student from the University of Puerto Rico, led a camera trap study this past summer in Puerto Rico to determine whether hummingbirds might be shifting their behavior to avoid extreme temperatures in the city.
 
@@ -191,7 +206,9 @@ Saimara just started a masters degree at SUNY Buffalo in the lab of Marcella Bae
 ## **Metabolic Adaptation in an invasive insect**
 
 ::: {style="text-align: center;"}
-<img src="Fallon.jpg" style="width: 40%;"/>
+<img src="fallon1.jpeg" style="width: 29.5%; margin: 0 10px;"/>
+<img src="fallon2.jpeg" style="width: 29.5%; margin: 0 10px;"/>
+<img src="fallon3.jpeg" style="width: 29.5%; margin: 0 10px;"/>
 :::
 :::
 
@@ -201,9 +218,8 @@ Saimara just started a masters degree at SUNY Buffalo in the lab of Marcella Bae
 
 ::: {.column width="40%"}
 \
-\
 **Fallon Meng**\
-Ph.D. Student, New York University
+*Ph.D. Student, New York University*
 
 The spotted lanternfly is an invasive moth that has been expanding its range rapidly across the Eastern United States, posing an agricultural threat, and is especially common in cities. Ph.D. student Fallon Meng and I are conducting a study to determine whether the metabolic rate of spotted lanternflies might be changing as a mechanism for coping with urban heat, and how this might be facilitating their invasion.
 :::
@@ -213,22 +229,22 @@ The spotted lanternfly is an invasive moth that has been expanding its range rap
 \
 
 ::: columns
-::: {.column width="55%"}
+::: {.column width="63%"}
 ## **Artificial light at night & circadian rhythms**
 
-::: {style="text-align: center;"}
-<img src="alan1.jpg" style="width: 40%;"/>
-:::
+During my doctorate I studied how light pollution disrupts circadian rhythms in birds. To do this, we occasionally had to stay awake for 24 hours, to get a snapshot of what was going on inside of a bird's brain at all hours of the night. Spoiler alert - not getting enough sleep stresses birds out, and staying up all night to document it stresses us out too! Thankfully, I had some amazing undergraduate students and we got creative, finding ways to keep ourselves awake and in a good mood, like painting and making silly over-caffeinated videos.
 :::
 
-::: {.column width="5%"}
+::: {.column width="2%"}
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="40%"}
-\
-\
-During my doctorate I studied how light pollution disrupts circadian rhythms in birds. To do this, we occasionally had to stay awake for 24 hours, to get a snapshot of what was going on inside of a bird's brain at all hours of the night. Spoiler alert - not getting enough sleep stresses birds out, and staying up all night to document it stresses us out too! Thankfully, I had some amazing undergraduate students and we got creative, finding ways to keep ourselves awake and in a good mood, like painting and making silly over-caffeinated videos.
+::: {.column width="35%"}
+
+::: {style="text-align: center;"}
+<img src="alan1.jpg" style="width: 70%;"/>
+:::
+
 :::
 :::
 
@@ -289,10 +305,10 @@ Bogotá (Colombia) **·** Fusagasugá (Colombia) **·** Gamboa (Panama) **·** P
 
 <img src="engage4.jpg" alt="Image 1" style="width: 100%;"/>
 
-<figcaption> </figcaption>
+<figcaption>
+
+</figcaption>
 
 </figure>
-
-
 :::
 :::

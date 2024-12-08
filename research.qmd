@@ -232,4 +232,36 @@ This part of my research is still building - stay tuned as I build parallel urba
 
 I am always looking for community members to help me study hummingbirds. **If you live in any of these cities (or surrounding rural areas), see hummingbirds around, and want to help me study them - [send me an email](mailto:valentina.alaasam@gmail.com)!** I would be extra excited if you have hummingbird feeders or would be interested in starting to maintain one.
 :::
+
+\
+\
+
+## **Community Engagement**
+
+Whether we are conducting surveys in a public park, the side of the road, or a private backyard, I tailor my work to encourage local community curiosity and participation. I believe fundamentally that it is our duty (as scientists) to ensure the knowledge we generate is accessible to anyone who is interested, and to anyone who is affected. Outreach education  is especially important as an urban ecologist because humans are both members and architects of urban ecosystems. The knowledge my research  generates has the potential to directly apply to human lives, and reciprocally, human decision-making has the potential to directly affect the species I study. Moreover, by working in human-dominated landscapes, we have an opportunity to connect with people that maybe otherwise wouldn’t even know to *be* curious about science. That is why I have designed my fieldwork to rely on community participation. I also take every opportunity to practice communicating my science to general audiences, and create opportunities for my students to do the same.
+
+::: {style="display: flex; justify-content: space-around;"}
+<img src="comeng1.JPG" alt="Im1" style="width: 50%; margin: 0 10px;"/> 
+<img src="comeng2.jpg" alt="Im2" style="width: 44%; margin: 0 10px;"/> 
 :::
+
+
+::: {style="display: flex; justify-content: space-around;"}
+<img src="comeng3.jpg" alt="Im4" style="width: 33.5%; margin: 0 10px;"/> 
+<img src="comeng4.png" alt="Im5" style="width: 25.2%; margin: 0 10px;"/>
+<img src="comeng6.jpg" alt="Im6" style="width: 33.3%; margin: 0 10px;"/>
+:::
+
+::: {style="display: flex; justify-content: space-around;"}
+<img src="comeng5.jpg" alt="Im2" style="width: 47%; margin: 0 10px;"/> 
+<img src="comeng8.jpeg" alt="Im3" style="width: 47%; margin: 0 10px;"/> 
+:::
+
+::: {style="display: flex; justify-content: space-around;"}
+<img src="comeng7.jpg" alt="Im7" style="width: 31.6%; margin: 0 10px;"/> 
+<img src="comeng9.jpeg" alt="Im9" style="width: 31.6%; margin: 0 10px;"/>
+<img src="comeng10.jpeg" alt="Im10" style="width: 28.8%; margin: 0 10px;"/>
+:::
+:::
+\
+\
