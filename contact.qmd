@@ -19,7 +19,7 @@ about:
       href: https://x.com/vale_alaasam
     - text: CV
       icon: file-text
-      href: Alaasam_CV_Oct2024.pdf
+      href: Alaasam_CV_Dec2024.pdf
 ---
 
 ::: column-page
