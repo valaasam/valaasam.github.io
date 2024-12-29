@@ -50,7 +50,7 @@ The action of doing science - asking questions, taking measurements, testing hyp
 \
 Here are some of the things I am especially passionate about:\
 \
-<a href="#section-one">Conservation</a> **·** <a href="#section-two">Education</a> **·** <a href="#section-three">DEI</a>
+<a href="#section-one">DEI</a> **·** <a href="#section-two">Conservation</a> **·** <a href="#section-three">Education</a> **·** <a href="#section-four">Work-Life</a>
 
 ------------------------------------------------------------------------
 </p>
