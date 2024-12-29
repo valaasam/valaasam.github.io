@@ -17,6 +17,8 @@ about:
     - text: X
       icon: twitter-x
       href: https://x.com/vale_alaasam
+    - text: Bluesky
+      href: https://bsky.app/profile/vale-alaasam.bsky.social 
     - text: CV
       icon: file-text
       href: Alaasam_CV_2024_Dec2024.pdf

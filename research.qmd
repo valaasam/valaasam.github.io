@@ -80,7 +80,7 @@ For 4 billion years life has evolved under dark nights, brightened only by the m
 ::: {.column width="55%"}
 ## **How are hummingbirds adapting to urbanization?**
 
-What kind of adaptations allow urban exploitation of certain species or populations? **As an NSF Postdoctoral Fellow**, I am studying hummingbirds that live in cities (and those that don't) to understand how populations are locally adapting to urban landscapes. I am measuring morphological and physiological traits, as well as sequencing their genome in order to identify the eco-evolutionary processes governing species responses to urbanization. This work is in collaboration with Dr. Kristin Winchell at New York University, Dr. Alejandro Rico-Guevara at the University of Washington, and Dr. Owen McMillan at the Smithsonian Tropical Research Institute.
+What kind of adaptations allow urban exploitation of certain species or populations? **As an NSF Postdoctoral Fellow**, I am studying hummingbirds that live in cities (and those that don't) to understand how populations are locally adapting to urban landscapes. Hummingbirds are already living at **physiological extremes**, with some of the fastest metabolic rates of any animal, they esentially live paycheck-to-paycheck with their calories. I am measuring morphological and physiological traits, as well as sequencing their genome in order to identify the eco-evolutionary processes governing species responses to urbanization. This work is in collaboration with Dr. Kristin Winchell at New York University, Dr. Alejandro Rico-Guevara at the University of Washington, and Dr. Owen McMillan at the Smithsonian Tropical Research Institute.
 :::
 
 ::: {.column width="5%"}
@@ -96,14 +96,16 @@ What kind of adaptations allow urban exploitation of certain species or populati
 :::
 :::
 
-
-
 ::: {style="display: flex; justify-content: space-around;"}
 <figure style="width: 30%; margin: 0 10px; text-align: center;">
 
 <img src="Research1.JPG" alt="Image 1" style="width: 100%;"/>
 
-<figcaption style="font-size: 14px;">Green-throated Carib, San Juan, PR.</figcaption>
+<figcaption style="font-size: 14px;">
+
+Green-throated Carib, San Juan, PR.
+
+</figcaption>
 
 </figure>
 
@@ -111,7 +113,11 @@ What kind of adaptations allow urban exploitation of certain species or populati
 
 <img src="hum2.jpeg" alt="Image 2" style="width: 100%;"/>
 
-<figcaption style="font-size: 14px;">Alyssa Sargent and I working in one of our favorite backyards, Fall 2023.</figcaption>
+<figcaption style="font-size: 14px;">
+
+Alyssa Sargent and I working in one of our favorite backyards, Fall 2023.
+
+</figcaption>
 
 </figure>
 
@@ -119,7 +125,11 @@ What kind of adaptations allow urban exploitation of certain species or populati
 
 <img src="hum5.jpg" alt="Image 3" width="102%"/>
 
-<figcaption style="font-size: 14px;">Puerto Rican Mango (male), Dorado, PR. Red marking on the crown is a small dot of non-toxic fabric paint that we place to identify and avoid recapturing the same individual.</figcaption>
+<figcaption style="font-size: 14px;">
+
+Puerto Rican Mango (male), Dorado, PR. Red marking on the crown is a small dot of non-toxic fabric paint that we place to identify and avoid recapturing the same individual.
+
+</figcaption>
 
 </figure>
 :::
@@ -156,17 +166,15 @@ Spatially distant cities often resemble each other more than surrounding natural
 
 ## **Isolating pollutants in the lab**
 
-Cities are full of environmental changes that can have energetic consequences for individuals, effecting survival and reproduction. This poses a problem for conservation - but how can we design better cities if we don't know which change is causing the problem? In the lab, we can isolate components of urbanization to detangle their respective effects. For example, I used zebra finches (*Taeniopygia guttata*) to study how artificial light at night affects behavior and physiology. In this controlled environment I can measure activity, **sleep** and **circadian rhythms** using an automated perch that records movement every second 24/7. I use bioassays to measure physiological correlates of behavior such as hormonal rhythms (**melatonin**, glucocorticoids), and physiological stress (e.g. **glucocorticoids**, **oxidative stress**, biomarkers of **cardiovascular** dysfunction).
+Cities are full of environmental changes that can have energetic consequences for individuals, effecting survival and reproduction. This poses a problem for conservation - but how can we design better cities if we don't know which change is causing the problem? In the lab, we can isolate components of urbanization to detangle their respective effects. For example, I used zebra finches (*Taeniopygia guttata*) to study how artificial light at night affects behavior and physiology. In this controlled environment I can measure sleep and **circadian rhythms** using an automated perch that records constant activity ([*JEZ-A, 2018*](https://onlinelibrary.wiley.com/doi/10.1002/jez.2168)). I use bioassays to measure physiological correlates of behavior such as hormonal rhythms (**melatonin**, glucocorticoids), and physiological stress (e.g. **glucocorticoids**, **oxidative stress**, biomarkers of **cardiovascular** dysfunction).
 
 ::: {style="display: flex; justify-content: space-around;"}
-<img src="Research2.jpg" alt="Image 1" style="width: 53%; margin: 0 10px;"/> 
-<img src="lp3.jpg" alt="Image 3" style="width: 43%; margin: 0 10px;"/> 
-
+<img src="Research2.jpg" alt="Image 1" style="width: 53%; margin: 0 10px;"/> <img src="lp3.jpg" alt="Image 3" style="width: 43%; margin: 0 10px;"/>
 :::
-<div style="text-align: right;">
-[Alaasam et al., 2024](https://www.cell.com/action/showPdf?pii=S2589-0042%2824%2900085-3)
-</div>
 
+::: {style="text-align: right;"}
+[*iScience, 2024*](https://www.cell.com/action/showPdf?pii=S2589-0042%2824%2900085-3)
+:::
 
 \
 \
@@ -177,7 +185,7 @@ Cities are full of environmental changes that can have energetic consequences fo
 
 ## **Molecular Mechanisms**
 
-What are the molecular mechanisms underlying behavioral and physiological responses? To understand this, my research involves using **next-generation sequencing** techniques to measure differences in gene expression resulting from exposure to various environmental conditions. For example, I have shown that behavioral and endocrine disruption resulting from light pollution exposure occurs independently from the central circadian clock. RNA sequencing of red blood cells, which is minimally invasive and allows for repeated measures of gene expression within-individuals, revealed processes underlying habituation to light pollution over time. I have also developed methods in **immunocytochemistry** enabling us to to map neuron activity in the brain during exposure to night-light.
+What are the molecular mechanisms underlying behavioral and physiological responses? To understand this, my research involves using **next-generation sequencing** techniques to measure differences in gene expression resulting from exposure to various environmental conditions. For example, I have shown that behavioral and endocrine disruption resulting from light pollution exposure occurs independently from the central circadian clock ([*Environmental Pollution, 2021*](https://www.sciencedirect.com/science/article/abs/pii/S0269749121006187?via%3Dihub)). RNA sequencing of red blood cells, which is minimally invasive and allows for repeated measures of gene expression within-individuals, revealed processes underlying habituation to light pollution over time ([*iScience, 2024*](https://www.cell.com/action/showPdf?pii=S2589-0042%2824%2900085-3)). I have also developed methods in **immunocytochemistry** enabling us to to map neuron activity in the brain during exposure to night-light.
 :::
 
 ::: {.column width="5%"}
@@ -186,14 +194,14 @@ What are the molecular mechanisms underlying behavioral and physiological respon
 
 ::: {.column width="45%"}
 ::: {style="display: flex; justify-content: space-around;"}
-
 \
 \
 <img src="Research3.jpg" alt="Image 1" style="width: 100%; margin: 0 10px;"/>
 :::
-<div style="text-align: right;">
-Figure from [Hui et al., 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10352805/pdf/fnins-17-1194996.pdf)
-</div>
+
+::: {style="text-align: right;"}
+[*Frontiers in Nueroscience, 2023*](https://pmc.ncbi.nlm.nih.gov/articles/PMC10352805/pdf/fnins-17-1194996.pdf)
+:::
 :::
 :::
 
@@ -209,8 +217,6 @@ Figure from [Hui et al., 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10352805
 Current understanding of urban ecology and evolution is alarmingly biased, stemming disproportionally from the wealthiest nations. This is a problem because the evolutionary outcomes of urbanization likely depend on geographic and ecological context and can vary substantially across latitude. Latin America represents the second most urbanized global region, with 81% of habitants living in urban areas, and contains over 40% of the world's avian biodiversity, yet current knowledge about the effect of urbanization on organisms is biased toward temperate regions (e.g. North America and Europe) with few studies focused in the tropics.
 
 My research takes advantage of cities world-wide as replicated experiments to investigate how environmental context shapes the evolutionary outcomes of urbanization and identify factors that facilitate or constrain species convergence. In doing so, I am to rectify these global biases in knowledge, elevate research & researchers in Central and South America, and help narrow the hemispheric gap that divides our science.
-
-
 :::
 
 ::: {.column width="5%"}
@@ -219,7 +225,6 @@ My research takes advantage of cities world-wide as replicated experiments to in
 
 ::: {.column width="45%"}
 ::: {style="display: flex; justify-content: space-around;"}
-
 \
 \
 \
@@ -227,10 +232,10 @@ My research takes advantage of cities world-wide as replicated experiments to in
 \
 <img src="Global1.JPG" alt="Image 5" style="width: 100%; margin: 0 10px;"/>
 :::
+:::
+:::
 
-:::
-:::
-This part of my research is still building - stay tuned as I build parallel urban field systems in Puerto Rico, New York, Seattle, Colombia (Bogotá and Fusagasugá), Panama (Panama City and Gamboa), and Chile (Santiago). 
+This part of my research is still building - stay tuned as I build parallel urban field systems in Puerto Rico, New York, Seattle, Colombia (Bogotá and Fusagasugá), Panama (Panama City and Gamboa), and Chile (Santiago).
 
 I am always looking for community members to help me study hummingbirds. **If you live in any of these cities (or surrounding rural areas), see hummingbirds around, and want to help me study them - [send me an email](mailto:valentina.alaasam@gmail.com)!** I would be extra excited if you have hummingbird feeders or would be interested in starting to maintain one.
 :::
@@ -240,30 +245,24 @@ I am always looking for community members to help me study hummingbirds. **If yo
 
 ## **Community Engagement**
 
-Whether we are conducting surveys in a public park, the side of the road, or a private backyard, I tailor my work to encourage local community curiosity and participation. I believe fundamentally that it is our duty (as scientists) to ensure the knowledge we generate is accessible to anyone who is interested, and to anyone who is affected. Outreach education  is especially important as an urban ecologist because humans are both members and architects of urban ecosystems. The knowledge my research  generates has the potential to directly apply to human lives, and reciprocally, human decision-making has the potential to directly affect the species I study. Moreover, by working in human-dominated landscapes, we have an opportunity to connect with people that maybe otherwise wouldn’t even know to *be* curious about science. That is why I have designed my fieldwork to rely on community participation. I also take every opportunity to practice communicating my science to general audiences, and create opportunities for my students to do the same.
+Whether we are conducting surveys in a public park, the side of the road, or a private backyard, I tailor my work to encourage local community curiosity and participation. I believe fundamentally that it is our duty (as scientists) to ensure the knowledge we generate is accessible to anyone who is interested, and to anyone who is affected. Outreach education is especially important as an urban ecologist because humans are both members and architects of urban ecosystems. The knowledge my research generates has the potential to directly apply to human lives, and reciprocally, human decision-making has the potential to directly affect the species I study. Moreover, by working in human-dominated landscapes, we have an opportunity to connect with people that maybe otherwise wouldn’t even know to *be* curious about science. That is why I have designed my fieldwork to rely on community participation. I also take every opportunity to practice communicating my science to general audiences, and create opportunities for my students to do the same.
 
 ::: {style="display: flex; justify-content: space-around;"}
-<img src="comeng1.JPG" alt="Im1" style="width: 50%; margin: 0 10px;"/> 
-<img src="comeng2.jpg" alt="Im2" style="width: 44%; margin: 0 10px;"/> 
-:::
-
-
-::: {style="display: flex; justify-content: space-around;"}
-<img src="comeng3.jpg" alt="Im4" style="width: 33.5%; margin: 0 10px;"/> 
-<img src="comeng4.png" alt="Im5" style="width: 25.2%; margin: 0 10px;"/>
-<img src="comeng6.jpg" alt="Im6" style="width: 33.3%; margin: 0 10px;"/>
+<img src="comeng1.JPG" alt="Im1" style="width: 50%; margin: 0 10px;"/> <img src="comeng2.jpg" alt="Im2" style="width: 44%; margin: 0 10px;"/>
 :::
 
 ::: {style="display: flex; justify-content: space-around;"}
-<img src="comeng5.jpg" alt="Im2" style="width: 47%; margin: 0 10px;"/> 
-<img src="comeng8.jpeg" alt="Im3" style="width: 47%; margin: 0 10px;"/> 
+<img src="comeng3.jpg" alt="Im4" style="width: 33.5%; margin: 0 10px;"/> <img src="comeng4.png" alt="Im5" style="width: 25.2%; margin: 0 10px;"/> <img src="comeng6.jpg" alt="Im6" style="width: 33.3%; margin: 0 10px;"/>
 :::
 
 ::: {style="display: flex; justify-content: space-around;"}
-<img src="comeng7.jpg" alt="Im7" style="width: 31.6%; margin: 0 10px;"/> 
-<img src="comeng9.jpeg" alt="Im9" style="width: 31.6%; margin: 0 10px;"/>
-<img src="comeng10.jpeg" alt="Im10" style="width: 28.8%; margin: 0 10px;"/>
+<img src="comeng5.jpg" alt="Im2" style="width: 47%; margin: 0 10px;"/> <img src="comeng8.jpeg" alt="Im3" style="width: 47%; margin: 0 10px;"/>
+:::
+
+::: {style="display: flex; justify-content: space-around;"}
+<img src="comeng7.jpg" alt="Im7" style="width: 31.6%; margin: 0 10px;"/> <img src="comeng9.jpeg" alt="Im9" style="width: 31.6%; margin: 0 10px;"/> <img src="comeng10.jpeg" alt="Im10" style="width: 28.8%; margin: 0 10px;"/>
 :::
 :::
+
 \
 \

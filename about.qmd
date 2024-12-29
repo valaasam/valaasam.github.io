@@ -53,12 +53,14 @@ Here are some of the things I am especially passionate about:\
 <a href="#section-one">DEI</a> **·** <a href="#section-two">Conservation</a> **·** <a href="#section-three">Education</a> **·** <a href="#section-four">Work-Life</a>
 
 ------------------------------------------------------------------------
+
 </p>
 :::
+
 ::: columns
 # **Diversity & Inclusion** {#section-one}
-
 :::
+
 ::: columns
 ::: {.column width="50%"}
 There is a table where scientists gather after a day in the field, lab or classroom - swapping stories over beers, or filling up on coffee before an evening lecture. At the table is the luxury of being curious and creative. At the table is education, mentorship, confidence, and growth.
@@ -71,16 +73,13 @@ Systemic exclusion is when the faces and voices at a table fail to represent the
 The voice that says *I don't belong at the table.*
 
 Diversifying the faces and voices at the table of STEM and academia is thus a critical step towards dismantling the glass ceiling that limits who has access. I am committed to supporting women, BIPOC and LGBTQIA+ communities, celebrating multiculturalism & neurodiversity, respecting the complexity of diverse lived experiences, and resisting divisive forces that perpetuate social injustice in the scientific and academic communities.
-
 :::
 
 ::: {.column width="3%"}
 <!-- empty column to create gap -->
 :::
 
-
 ::: {.column width="47%"}
-
 ![](biobus.jpg)
 :::
 :::
@@ -93,10 +92,9 @@ Diversifying the faces and voices at the table of STEM and academia is thus a cr
 
 Nature isn't always cute. Sometimes it's slimy, poop-colored and has a large set of teeth, grinning at you from dark crevices in the bottom of the river.
 
-I originally pursued biology to "save all the animals" from things like pollution and deforestation, but as a teenager I was mainly concerned with what I thought were "cute" animals - polar bears, sea turtles, maybe dolphins. I saw that conservation was important, but had grown up uncomfortable in the outdoors and actually afraid of most wildlife. Instead, my first field experience ended up being with the eastern hellbender (*Cryptobranchus alleganiensis*), or 'snot-otters' as they are known colloquially across their range in rural Appalachia. Of course, as I got to know these creatures I quickly recognized them as the most beautiful, interesting, and unique herps in North America (*shameless bias here*), sadly also in decline. I also came to realize that I was not alone in my original discomfort with them. Much of the local community, fortunate enough to grow up with this amazing species in their backyards, were afraid of them too. Hellbenders were my introduction to the real challenge of conservation: motivating people to connect with, and care about, topics that are unfamiliar or uncomfortable. 
+I originally pursued biology to "save all the animals" from things like pollution and deforestation, but as a teenager I was mainly concerned with what I thought were "cute" animals - polar bears, sea turtles, maybe dolphins. I saw that conservation was important, but had grown up uncomfortable in the outdoors and actually afraid of most wildlife. Instead, my first field experience ended up being with the eastern hellbender (*Cryptobranchus alleganiensis*), or 'snot-otters' as they are known colloquially across their range in rural Appalachia. Of course, as I got to know these creatures I quickly recognized them as the most beautiful, interesting, and unique herps in North America (*shameless bias here*), sadly also in decline. I also came to realize that I was not alone in my original discomfort with them. Much of the local community, fortunate enough to grow up with this amazing species in their backyards, were afraid of them too. Hellbenders were my introduction to the real challenge of conservation: motivating people to connect with, and care about, topics that are unfamiliar or uncomfortable.
 
 I believe that with some effort it is always possible to find a connection that is meaningful to someone, to help bridge the gap between humans and their environment. In my work, it is often achieved by simply introducing someone to the species in their backyard. A single interaction can spark the realization that everything is connected - air, water, soil, microbes, the cells in our bodies, and all life on earth. As a scientist, discovering and describing those connections means little without the support of our communities helping to conserve them.
-
 :::
 
 ::: {.column width="5%"}
@@ -142,6 +140,7 @@ My priorities as an educator are to 1) help students become empathetic learners 
 ------------------------------------------------------------------------
 
 </p>
+
 ::: columns
 :::
 
@@ -149,16 +148,15 @@ My priorities as an educator are to 1) help students become empathetic learners 
 
 Everyone deserves to have work-life balance, but there is not a one-size-fits-all model for achieving it. As academics, our daily, monthly, and annual workloads can be extremely individualized; even colleagues at the same institution or studying similar systems can have vastly different schedules and mosaics of responsibility. Simple strategies like "don't work past 5pm" or "don't work on weekends", are often incompatible with field seasons, grant deadlines, and time-sensitive laboratory experiments.
 
-In addition, baked into much of the dialog about "Work-life balance" are antiquated assumptions of binary gender roles, resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. For example, the tradition of 'over-working' (>40hrs/wk) in academia is the byproduct of a historically all-male workforce with minimal at-home responsibilities. Work-life balance conversations increased as women rose in the workforce, reflecting the struggle of pursuing a career while maintaining household/child-care responsibilities, usually at the expense of achieving less at work than their male counterparts. 
+In addition, baked into much of the dialog about "Work-life balance" are antiquated assumptions of binary gender roles, resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. For example, the tradition of 'over-working' (>40hrs/wk) in academia is the byproduct of a historically all-male workforce with less at-home responsibilities. Work-life balance conversations increased as women rose in the workforce, reflecting the struggle of pursuing a career while maintaining household/child-care responsibilities, yet usually at the expense of achieving less at work than their male counterparts.
 
-Though we are approaching equal gender representation and moving away from household gender norms, the internalized expectations we place on ourselves, and external metrics of evaluating success and productivity of others, are still lagging behind, contributing to imposter syndrome and burnout - *especially* for historically underrepresented groups.
+Though we are moving towards equal gender representation and away from household gender norms, the internalized expectations we place on ourselves, and external metrics of evaluating success and productivity of others, are still lagging behind, contributing to imposter syndrome and burnout - *especially* for historically underrepresented groups.
 
-To encourage more transparency in the diversity of work and life experiences, colleagues and I have developed [this shiny app tool](https://statsmatt.shinyapps.io/balanceApp/), where you can turn your life into an abstract blob of color  - for fun and reflection. 
+To encourage more transparency in the diversity of work and life experiences, colleagues and I have developed [this shiny app tool](https://statsmatt.shinyapps.io/balanceApp/), where you can turn your life into an abstract blob of color - for fun and reflection.
 
 ![](About_4.png)
 
-Here is me in 2023 - A beautiful mess, that somehow works for me :)  Read more about re-conceptualizing work and life as a **dynamic equilibrium** in our recent article in [*Trends in Ecology & Evolution*](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00285-4). We advocate for granting ourselves (and others) the permission to respond to life's complexity with the same context-dependency as the ecological systems we study. 
-
+Here is me in 2023 - the first year of my post-doc. A beautiful mess, that somehow works for me :) Read more about re-conceptualizing work and life as a **dynamic equilibrium** in our recent article in [*Trends in Ecology & Evolution*](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00285-4). We advocate for granting ourselves (and others) the permission to respond to life's complexity with the same context-dependency as the ecological systems we study.
 
 <!-- ------------------------------------------------------------------------ -->
 :::

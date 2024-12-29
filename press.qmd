@@ -45,53 +45,64 @@ include-in-header:
 :::
 
 ::: column-page
-
 ::: columns
 ::: {.column width="63%"}
-
-<div style="line-height: 2.0;">
-
+::: {style="line-height: 1.2;"}
 ## **Radio and podcasts**
 
-• [WYNC News and NPR Morning Edition.](https://gothamist.com/news/are-parks-in-nycs-wealthier-areas-more-biodiverse-nyu-researchers-want-to-find-out) *July 20, 2024*\
-• [Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299) Podcast. New York, NY, USA. *May 16, 2024*\
-• Nerd Nite Reno. ["Getting Nerdy About Light Pollution".](https://open.spotify.com/episode/3KQRv1Np7VInFDItRYNgfT?si=da6q9QWZS628t4DprPN5ag) Podcast. *July 2020*
+[WYNC News and NPR Morning Edition.](https://gothamist.com/news/are-parks-in-nycs-wealthier-areas-more-biodiverse-nyu-researchers-want-to-find-out) *July 20, 2024*\
+
+[Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299) Podcast. New York, NY, USA. *May 16, 2024*\
+
+Nerd Nite Reno. ["Getting Nerdy About Light Pollution".](https://open.spotify.com/episode/3KQRv1Np7VInFDItRYNgfT?si=da6q9QWZS628t4DprPN5ag) Podcast. *July 2020*
 
 ## **Featured press and science media**
 
-• Burakoff, M. ["Science Is Revealing the Social Disparities at the Root of Urban Ecosystems."](https://www.audubon.org/magazine/science-revealing-social-disparities-root-urban-ecosystems) Audubon Magazine. *Dec, 2024*\
-• Misdary, R. ["Are parks in NYC's wealthier areas more biodiverse? NYU researchers want to find out."](https://gothamist.com/news/are-parks-in-nycs-wealthier-areas-more-biodiverse-nyu-researchers-want-to-find-out) The Gothamist. *July 20, 2024*\
-• Sargent, A. ["The Ties Between Wealth and Wildlife in NYC: An Interview with Dr. Valentina Alaasam".](https://integrativeandcomparativebiology.wordpress.com/2024/07/02/the-ties-between-wealth-and-wildlife-in-nyc-an-interview-with-dr-valentina-alaasam/) Integrative and Comparative Biology Blog. *July 2, 2024*\
-• Reynolds E. ["What To Know about the 2024 Total Eclipse: Tips from NYU experts on eye safety, photography, animal behavior, and more ahead of the sun's big show".](https://www.nyu.edu/about/news-publications/news/2024/march/eclipse-guide-2024.html) NYU News. *March 29, 2024*\
-• Rawat, S. ["Stress in the city."](https://thebiologist.rsb.org.uk/biologist-features/stress-in-the-city) The Biologist. *September 11, 2023*\
-• Ogden LE. ["Artificial light at night: A research field in action."](https://doi.org/10.1093/biosci/biad058) BioScience. Volume 73, Issue 7, *July 2023*, Pages 469--475\
-• Gibbons, S. ["Want to help wildlife? Turn off your lights."](https://www.nationalgeographic.com/environment/article/light-pollution-how-to-help-wildlife) National Geographic. *April 3, 2023*\
-• Hirschlag A. ["How light pollution disrupts plants' senses."](https://www.bbc.com/future/article/20230308-how-light-pollution-disrupts-plants-senses) BBC Future. *March 8, 2023*\
-• Johnson K. ["Urban Wildlife: How noise and light pollution affect birds".](https://hitchcockproject.org/research-on-bird-stress-responses/) The Hitchcock Project for Visualizing Science. *December 20, 2020*
+[Science Is Revealing the Social Disparities at the Root of Urban Ecosystems.](https://www.audubon.org/magazine/science-revealing-social-disparities-root-urban-ecosystems). Burakoff, M. **Audubon Magazine**. Dec, 2024\
+
+[Are parks in NYC's wealthier areas more biodiverse? NYU researchers want to find out.](https://gothamist.com/news/are-parks-in-nycs-wealthier-areas-more-biodiverse-nyu-researchers-want-to-find-out) Misdary, R. **The Gothamist**. July 20, 2024\
+
+[The Ties Between Wealth and Wildlife in NYC: An Interview with Dr. Valentina Alaasam.](https://integrativeandcomparativebiology.wordpress.com/2024/07/02/the-ties-between-wealth-and-wildlife-in-nyc-an-interview-with-dr-valentina-alaasam/). Sargent, A. **Integrative and Comparative Biology Blog**. July 2, 2024\
+
+[What To Know about the 2024 Total Eclipse: Tips from NYU experts on eye safety, photography, animal behavior, and more ahead of the sun's big show.](https://www.nyu.edu/about/news-publications/news/2024/march/eclipse-guide-2024.html). Reynolds E. **NYU News**. March 29, 2024\
+
+[Stress in the city.](https://thebiologist.rsb.org.uk/biologist-features/stress-in-the-city). Rawat, S.  **The Biologist**. September 11, 2023\
+
+[Artificial light at night: A research field in action.](https://doi.org/10.1093/biosci/biad058). Ogden LE. **BioScience**. Volume 73, Issue 7, July 2023, Pages 469--475\
+
+[Want to help wildlife? Turn off your lights.](https://www.nationalgeographic.com/environment/article/light-pollution-how-to-help-wildlife). Gibbons, S.  **National Geographic**. April 3, 2023\
+
+[How light pollution disrupts plants' senses.](https://www.bbc.com/future/article/20230308-how-light-pollution-disrupts-plants-senses). Hirschlag A. **BBC Future**. March 8, 2023\
+
+[Urban Wildlife: How noise and light pollution affect birds.](https://hitchcockproject.org/research-on-bird-stress-responses/). Johnson K. **The Hitchcock Project for Visualizing Science**. *December 20, 2020*
 
 ## **Invited public talks and webinars**
 
-• Soapbox Science, New York, NY. *August 23, 2024*\
-• [Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299) Podcast. New York, NY, USA. *May 16, 2024*\
-• [Smithsonian National Museum of Natural History.](https://naturalhistory.si.edu/events/events-adults/video-webinars-outbreak-epidemics-connected-world/lights-out-effects-light-pollution-bird-health) Live Webinar. *April 12, 2023*\
-• Science in the wild: Patagonia and Friends of Nevada Wilderness. Live Talk. Reno, NV, USA. *March 9, 2023*\
-• Lahontan Audubon Society. Reno, NV, USA. *March 28, 2023*\
-• Altacal Audubon Society. Live Virtual Talk. *February 20, 2023*\
-• [San Francisco Bay Bird Observatory: Birdy Hour.](https://www.youtube.com/watch?v=XD5D8KV5ijU) San Francisco, CA, USA. *May 16, 2022*\
-• [Earth Day and Light Pollution -- Air and Space Live Chat.](https://www.youtube.com/watch?v=C4Ox5N8kOMk) Smithsonian National Air and Space Museum. *May 4, 2021*
+Soapbox Science, New York, NY. *August 23, 2024*\
 
-</div>
+The Myrrh the Merrier: Comedy and trivia loosely inspired by the holidays. Live show. New York, NY, USA. December 17th, 2024. 
 
+[Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299). Live show. New York, NY, USA. May 16, 2024\
+
+[Smithsonian National Museum of Natural History.](https://naturalhistory.si.edu/events/events-adults/video-webinars-outbreak-epidemics-connected-world/lights-out-effects-light-pollution-bird-health) Live Webinar. April 12, 2023\
+
+Science in the wild: Patagonia and Friends of Nevada Wilderness. Live Talk. Reno, NV, USA. March 9, 2023\
+
+Lahontan Audubon Society. Reno, NV, USA. March 28, 2023\
+
+Altacal Audubon Society. Live Virtual Talk. February 20, 2023\
+
+[San Francisco Bay Bird Observatory: Birdy Hour.](https://www.youtube.com/watch?v=XD5D8KV5ijU) San Francisco, CA, USA. May 16, 2022\
+
+[Earth Day and Light Pollution -- Air and Space Live Chat.](https://www.youtube.com/watch?v=C4Ox5N8kOMk) Smithsonian National Air and Space Museum. May 4, 2021
 :::
-
+:::
 
 ::: {.column width="2%"}
 <!-- empty column to create gap -->
 :::
 
-
 ::: {.column width="35%"}
-
 ::: {style="text-align: center;"}
 <img src="press1.jpg" style="width: 100%; margin: 0 10px;"/>
 :::
@@ -107,8 +118,6 @@ include-in-header:
 ::: {style="text-align: center;"}
 <img src="press4.png" style="width: 100%; margin: 0 10px;"/>
 :::
-
 :::
-
 :::
 :::

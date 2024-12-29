@@ -5,6 +5,8 @@ project:
 website:
   title: "Valentina J. Alaasam, Ph.D."
   navbar:
+    background: "#252727"
+    foreground: "#e6e9e9"
     left:
       - href: index.qmd
         text: Home
@@ -21,10 +23,11 @@ format:
     mainfont: "Times New Roman"
     fontsize: 1.25rem
     #fontcolor: "#0013d5"
-    #linkcolor: "#ff33f0"
+    linkcolor: "#31baaa"
     #monofont: courier new
     css: styles.css
     toc: true
+  
 
 editor: visual
 
