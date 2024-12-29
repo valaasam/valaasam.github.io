@@ -147,17 +147,17 @@ My priorities as an educator are to 1) help students become empathetic learners 
 
 # **Work-life balance** {#section-four}
 
-Everyone deserves to have work-life balance, but there is not a one-size-fits-all model for achieving it. As academics, our daily, monthly, and annual workloads can be extremely individualized; even colleagues at the same institution or studying similar systems can have vastly different schedules and mosaics of responsibility.  
+Everyone deserves to have work-life balance, but there is not a one-size-fits-all model for achieving it. As academics, our daily, monthly, and annual workloads can be extremely individualized; even colleagues at the same institution or studying similar systems can have vastly different schedules and mosaics of responsibility. Simple strategies like "don't work past 5pm" or "don't work on weekends", are often incompatible with field seasons, grant deadlines, and time-sensitive laboratory experiments.
 
-<!--One-dimensional strategies such as  such as "don't work past 5pm" or "don't work on weekends", are incompatible with field seasons, grant deadlines, and time-sensitive laboratory experiments. -->
+In addition, baked into much of the dialog about "Work-life balance" are antiquated assumptions of binary gender roles, resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. For example, the tradition of 'over-working' (>40hrs/wk) in academia is the byproduct of a historically all-male workforce with minimal at-home responsibilities. Work-life balance conversations increased as women rose in the workforce, reflecting the struggle of pursuing a career while maintaining household/child-care responsibilities, usually at the expense of achieving less at work than their male counterparts. 
 
-<!--In addition, baked into much of the dialog about "Work-life balance" are antiquated assumptions of binary gender roles and a nuclear family structure, resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. For example, the tradition of 'over-working' (>40hrs per week), is leftover from a historically all-male workforce with minimal household responsibilities other than bringing in income. Though we appear to be approaching equal gender representation in eco-evo, metrics of evaluating success and productivity, and the internalized expectations we place on ourselves, are still lagging behind, disproportionately affecting historically underrepresented groups. -->
+Though we are approaching equal gender representation and moving away from household gender norms, the internalized expectations we place on ourselves, and external metrics of evaluating success and productivity of others, are still lagging behind, contributing to imposter syndrome and burnout - *especially* for historically underrepresented groups.
 
 To encourage more transparency in the diversity of work and life experiences, colleagues and I have developed [this shiny app tool](https://statsmatt.shinyapps.io/balanceApp/), where you can turn your life into an abstract blob of color  - for fun and reflection. 
 
 ![](About_4.png)
 
-Here is me in 2023 - A beautiful mess, that somehow works for me :)  Read more about re-conceptualizing work and life as a **dynamic equilibrium** in our recent article in [*Trends in Ecology & Evolution*](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00285-4)
+Here is me in 2023 - A beautiful mess, that somehow works for me :)  Read more about re-conceptualizing work and life as a **dynamic equilibrium** in our recent article in [*Trends in Ecology & Evolution*](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00285-4). We advocate for granting ourselves (and others) the permission to respond to life's complexity with the same context-dependency as the ecological systems we study. 
 
 
 <!-- ------------------------------------------------------------------------ -->
