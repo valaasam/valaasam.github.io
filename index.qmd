@@ -5,13 +5,13 @@ format:
   html:
     theme: slate
 title-block-banner: "#00000000"
-title-block-banner-color: "#ffffff"
+title-block-banner-color: "#000000"
 include-in-header:
   - text: |
       <style>
       /* Increase title font size */
       h1 {
-        font-size: 55px; /* Adjust the size as needed */
+        font-size: 50px; /* Adjust the size as needed */
       }
       #title-block-header {
         background-image: url(header_main.jpg);
@@ -30,7 +30,7 @@ include-in-header:
         transform: translate(-50%, -50%); /* Center the element */
         text-align: center; /* Center text */
         color: #ffffff; /* White text color */
-        font-size: 30px; 
+        font-size: 25px; 
         padding: 0 5px; /* Add some padding to prevent text from touching the edges */
         max-width: 90%; /* Limit width of the title for responsiveness */
       }
@@ -55,7 +55,7 @@ I am currently an NSF postdoctoral fellow studying how hummingbirds are adapting
 
 \
 
-In my free time, I rock climb, backpack, run, ski uphill, cook, craft, practice reversing self-deprecation culture, and fight for social justice in both science and outdoor spaces. Learn more about me [here](https://valaasam.github.io/about.html).
+When I'm not doing science, I rock climb, backpack, run, ski uphill, cook, craft, and fight for social justice in both science and outdoor spaces. Learn more about me [here](https://valaasam.github.io/about.html).
 :::
 
 ::: right

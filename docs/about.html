@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,15 +55,27 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <style>
-    .quarto-title-block .quarto-title-banner {
-      color: #ffffff;
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #ffffff;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #ffffff;
 background: #00000000;
-    }
-    </style>
+      }
+</style>
 <style>
  /* Increase title font size */
 h1 {
@@ -109,41 +121,43 @@ h1 {
     <span class="navbar-title">Valentina J. Alaasam, Ph.D.</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page">
+    <a class="nav-link active" href="./about.html" rel="" target="" aria-current="page">
  <span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html">
+    <a class="nav-link" href="./research.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentorship.html">
+    <a class="nav-link" href="./mentorship.html" rel="" target="">
  <span class="menu-text">Mentorship</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html">
+    <a class="nav-link" href="./publications.html" rel="" target="">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./press.html">
+    <a class="nav-link" href="./press.html" rel="" target="">
  <span class="menu-text">Press</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html">
+    <a class="nav-link" href="./contact.html" rel="" target="">
  <span class="menu-text">CV &amp; Contact</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -183,24 +197,46 @@ h1 {
 </h1>
 </div>
 <div class="column-page">
-<div data-div="" style="background-color: #eaecee; padding: 15px; margin: 20px 0; text-align: center; font-size: 20px;">
+<div data-div="" style="background-color: #ffffff; padding: 15px; margin: 20px 0; text-align: center; font-size: 20px;">
 <p style="margin: 0;">
-</p><p>The action of doing science - asking questions, taking measurements, testing hypotheses - is only one component of being a scientist. There are many other roles I play, and motivations behind the work that I do as an academic scientist.<br>
+</p><p>The action of doing science - asking questions, taking measurements, testing hypotheses - is only one component of being a scientist. There are many other roles I play, and motivations behind the work that I do.<br>
 <br>
 Here are some of the things I am especially passionate about:<br>
 <br>
 <a href="#section-one">Conservation</a> <strong>·</strong> <a href="#section-two">Education</a> <strong>·</strong> <a href="#section-three">DEI</a></p>
+<hr>
 <p></p>
 </div>
-<p><br>
-</p>
 <div class="columns">
 <div class="column" style="width:50%;">
 <section id="section-one" class="level1">
+<h1><strong>Diversity &amp; Inclusion</strong></h1>
+<p>There is a table where scientists gather after a day in the field, lab or classroom - swapping stories over beers, or filling up on coffee before an evening lecture. At the table is the luxury of being curious and creative.&nbsp;At the table is education, mentorship, confidence, and growth.</p>
+<p>Historically, this table was mostly male.<br>
+Still today, this table is mostly White.&nbsp;</p>
+<p>Systemic exclusion is when the faces and voices at the table fail to represent the groups of people desiring a seat. When the projected image of a scientist is singular, it sends a message of who is allowed to be there, and underrepresented groups place ourselves in the stands instead of at the starting line. Moreover, exclusive environments redefine what it means to fail; instead of an invitation to solve problems, failure becomes a voice of self-doubt that says, <em>why am I even trying?</em></p>
+<p>The voice that says <em>I don’t belong at the table.</em></p>
+</section>
+</div><div class="column" style="width:3%;">
+<!-- empty column to create gap -->
+</div><div class="column" style="width:47%;">
+<p><br>
+<br>
+<br>
+</p>
+<p><img src="biobus.jpg" class="img-fluid"></p>
+</div>
+</div>
+<p><br>
+Diversifying the faces and voices at the table of STEM and academia is thus a critical step towards dismantling the glass ceiling that limits who has access. I am committed to supporting women, BIPOC and LGBTQIA+ communities, celebrating multiculturalism &amp; neurodiversity, respecting the complexity of diverse lived experiences, and resisting divisive forces that perpetuate social injustice in the scientific and academic communities.</p>
+<hr>
+<div class="columns">
+<div class="column" style="width:50%;">
+<section id="section-two" class="level1">
 <h1><strong>Conservation</strong></h1>
-<p>Nature isn’t always pretty. Sometimes it’s slimy, poop-colored and has a large set of teeth, grinning at you from dark crevices in the bottom of the river.</p>
-<p>I originally pursued conservation biology to “save all the animals” from things like pollution and deforestation, but I was mainly concerned with “cute” animals - polar bears, turtles, maybe dolphins. Instead, I landed a position working with the eastern hellbender (<em>Cryptobranchus alleganiensis</em>), or ‘snot-otters’ as they are known colloquially across their range in rural Appalachia. Perhaps the most beautiful, interesting, and unique herp in North America (<em>shameless bias here</em>), the hellbender was my introduction to the real challenge of conservation: motivating people to connect with, and care about, topics that are unfamiliar or uncomfortable.</p>
-<p>I believe that with some effort it is always possible to find a connection that is meaningful to someone, to help bridge that gap between humans and their environment. Everything is connected - our air, water, soil, microbiome, the cells in our body, and all life on earth. Personally, this interconnectedness is what excites me and draws me to science. Professionally, I do conservation work because the more we discover and describe those connections, the more effectively we can work with them to help our world function and thrive.</p>
+<p>Nature isn’t always cute. Sometimes it’s slimy, poop-colored and has a large set of teeth, grinning at you from dark crevices in the bottom of the river.</p>
+<p>I originally pursued biology to “save all the animals” from things like pollution and deforestation, but as a teenager I was mainly concerned with what I thought were “cute” animals - polar bears, sea turtles, maybe dolphins. I saw that conservation was important, but had grown up uncomfortable in the outdoors and actually afraid of most wildlife. Instead, my first field experience ended up being with the eastern hellbender (<em>Cryptobranchus alleganiensis</em>), or ‘snot-otters’ as they are known colloquially across their range in rural Appalachia. Of course, as I got to know these creatures I quickly recognized them as the most beautiful, interesting, and unique herps in North America (<em>shameless bias here</em>), sadly also in decline. I also came to realize that I was not alone in my original discomfort with them. Much of the local community, fortunate enough to grow up with this amazing species in their backyards, were afraid of them too. Hellbenders were my introduction to the real challenge of conservation: motivating people to connect with, and care about, topics that are unfamiliar or uncomfortable.</p>
+<p>I believe that with some effort it is always possible to find a connection that is meaningful to someone, to help bridge the gap between humans and their environment. In my work, it is often achieved by simply introducing someone to the species in their backyard. A single interaction can spark the realization that everything is connected - air, water, soil, microbes, the cells in our bodies, and all life on earth. As a scientist, discovering and describing those connections means little without the support of our communities helping to conserve them.</p>
 </section>
 </div><div class="column" style="width:5%;">
 <!-- empty column to create gap -->
@@ -217,31 +253,13 @@ Here are some of the things I am especially passionate about:<br>
 </div><div class="column" style="width:5%;">
 <!-- empty column to create gap -->
 </div><div class="column" style="width:50%;">
-<section id="section-two" class="level1">
+<section id="section-three" class="level1">
 <h1><strong>Education</strong></h1>
 <p>To study ecology or biology involves immersing ourselves in a foreign experience - the experience of an organism or system in nature. We practice understanding how it operates within the context of, for example, its motivations, evolutionary constraints or stochasticity.</p>
 <p>It is no suprise, then, that learning requires empathy. How well students know and understand something is a direct consequence of previous experiences (or lack thereof) and reflects the lens they are looking through.</p>
 <p>I believe the role of an educator is to provide students with new experiences and lenses that will expand their fields of view. When we ask students to just memorize information, it gets filed into whatever existing folders they already have and no growth is made. To expand fields of view, my goal is to teach students how to consistently reorganize knowledge and make space for new folders. In other words, to probe at habitual trains of thought &amp; encourage disembarkment without forceful derailment.</p>
 <p>My priorities as an educator are to 1) help students become empathetic learners and comfortable asking questions in unfamiliar spaces; 2) be inclusive of diverse learning styles, starting lines, and limitations, and allow students to direct their own learning process when possible; 3) be transparent about how my own experience influences my perspective and be open to amendments in how/what I teach; 4) encourage colleagues to actively improve the education system, challenge practices that perpetuate inequity, and work together to change them.</p>
 </section>
-</div>
-</div>
-<hr>
-<div class="columns">
-<div class="column" style="width:50%;">
-<section id="section-three" class="level1">
-<h1><strong>Diversity &amp; Inclusion</strong></h1>
-<p>There is a table where scientists gather after a day in the field, lab or classroom - swapping stories over beers, or filling up on coffee before an evening lecture. At the table is curiosity, creativity, appreciation for nature.&nbsp;At the table is education, mentorship, confidence, and growth.</p>
-<p>Historically, this table was mostly male.<br>
-Still today, this table is mostly White.&nbsp;</p>
-<p>Systemic exclusion is when the faces and voices at the table fail to represent groups of people desiring a seat. When the projected image or narrative of a scientist is singular, it sends a message of <em>us</em> versus <em>them,</em> encouraging polarity and emphasizing how we are different rather than how we are similar. It also discourages participation, and minority groups place ourselves in the stands instead of at the starting line. Moreover, exclusive environments redefine what it means to fail; instead of an invitation to solve problems, failure can reiterate the voice of self-doubt that says, <em>why am I even trying?</em></p>
-<p>The voice that says <em>I don’t belong at the table.</em></p>
-<p>Diversifying the faces and voices at the table of STEM and academia is thus a critical step towards dismantling the glass ceiling that limits who has access. I am committed to the inclusivity of women, BIPOC, and LGBTQIA+, promoting multiculturalism &amp; neurodiversity, appreciating the complexity of diverse lived experiences and resisting divisive forces that perpetuate social injustice in the scientific and academic communities.</p>
-</section>
-</div><div class="column" style="width:5%;">
-<!-- empty column to create gap -->
-</div><div class="column" style="width:45%;">
-<p><img src="biobus.jpg" class="img-fluid"></p>
 </div>
 </div>
 <hr>
@@ -257,8 +275,7 @@ Still today, this table is mostly White.&nbsp;</p>
 <!-- ::: -->
 <!-- ::: {.column width="45%"} -->
 <!-- # **Work-life balance** {#section-four} -->
-<!-- On the first day of my graduate program, I had 2 initial impressions. The first was how kind, passionate, and intelligent the graduate students and faculty were. The second was how stressed and sad everyone seemed. -->
-<!-- Current perceptions of how to balance an academic career with personal life are outdated, posing a disservice to the majority of scientists today. The concept of WLB was originally developed over a period when cis-white males held the majority of STEM and higher ed positions. Therefore, sewn into the norms and expectations of this career are assumptions of a gender binary, gendered roles, and a nuclear family structure. resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. Though we appear to be approaching equal gender representation in eco-evo, metrics of evaluating success and productivity, and the internalized expectations we place on ourselves, are lagging behind, disproportionately affecting the achievement of WLB for historically underrepresented groups. -->
+<!-- Not long ago, cis-white males held all of STEM and higher ed positions. There became an increasing need for "Work-Life Balance" to accommodate women needing to fulful dual responsibilities - still often   Therefore, sewn into the concept of "Work-life balance" are assumptions of binary gender roles and a nuclear family structure, resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. Though we appear to be approaching equal gender representation in eco-evo, metrics of evaluating success and productivity, and the internalized expectations we place on ourselves, are lagging behind, disproportionately affecting historically underrepresented groups. -->
 <!-- ::: -->
 <!-- ::: -->
 <!-- Achieving work life balance can be a particular challenge for academics in ecology and evolution. For many, the way we relate to our research programs or curricula can be quite personal, interwoven with our non-work passions and priorities. Intense periods of field or lab work, short-term positions, and frequent moves are common, especially in earlier career stages when our personal lives are also the most in flux. Moreover, our daily, monthly, and annual schedules and workloads can be extremely individualized; even colleagues at similar types of institutions or studying similar systems can have vastly different schedules, institutional expectations, and mosaics of responsibility (e.g. teaching, mentorship, service, research, etc.). -->
@@ -297,9 +314,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -364,6 +395,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
