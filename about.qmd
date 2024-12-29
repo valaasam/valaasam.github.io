@@ -53,19 +53,20 @@ Here are some of the things I am especially passionate about:\
 <a href="#section-one">Conservation</a> **·** <a href="#section-two">Education</a> **·** <a href="#section-three">DEI</a>
 
 ------------------------------------------------------------------------
-
-
 </p>
 :::
 ::: columns
-::: {.column width="50%"}
 # **Diversity & Inclusion** {#section-one}
+
+:::
+::: columns
+::: {.column width="50%"}
 There is a table where scientists gather after a day in the field, lab or classroom - swapping stories over beers, or filling up on coffee before an evening lecture. At the table is the luxury of being curious and creative. At the table is education, mentorship, confidence, and growth.
 
 Historically, this table was mostly male.\
 Still today, this table is mostly White. 
 
-Systemic exclusion is when the faces and voices at the table fail to represent the groups of people desiring a seat. When the projected image of a scientist is singular, it sends a message of who is allowed to be there, and underrepresented groups place ourselves in the stands instead of at the starting line. Moreover, exclusive environments redefine what it means to fail; instead of an invitation to solve problems, failure becomes a voice of self-doubt that says, *why am I even trying?*
+Systemic exclusion is when the faces and voices at a table fail to represent the groups of people desiring a seat. When the projected image of a scientist is singular, it sends a message of who is allowed to be there, and underrepresented groups place ourselves in the stands instead of at the starting line. Moreover, exclusive environments redefine what it means to fail; instead of an invitation to solve problems, failure becomes a voice of self-doubt that says, *why am I even trying?*
 
 The voice that says *I don't belong at the table.*
 
@@ -77,9 +78,6 @@ The voice that says *I don't belong at the table.*
 
 
 ::: {.column width="47%"}
-\
-\
-\
 
 ![](biobus.jpg)
 :::
@@ -106,6 +104,11 @@ I believe that with some effort it is always possible to find a connection that 
 :::
 
 ::: {.column width="45%"}
+\
+\
+\
+\
+
 ![](About_1.jpg)
 :::
 :::
