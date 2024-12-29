@@ -70,6 +70,8 @@ Systemic exclusion is when the faces and voices at a table fail to represent the
 
 The voice that says *I don't belong at the table.*
 
+Diversifying the faces and voices at the table of STEM and academia is thus a critical step towards dismantling the glass ceiling that limits who has access. I am committed to supporting women, BIPOC and LGBTQIA+ communities, celebrating multiculturalism & neurodiversity, respecting the complexity of diverse lived experiences, and resisting divisive forces that perpetuate social injustice in the scientific and academic communities.
+
 :::
 
 ::: {.column width="3%"}
@@ -82,8 +84,6 @@ The voice that says *I don't belong at the table.*
 ![](biobus.jpg)
 :::
 :::
-\
-Diversifying the faces and voices at the table of STEM and academia is thus a critical step towards dismantling the glass ceiling that limits who has access. I am committed to supporting women, BIPOC and LGBTQIA+ communities, celebrating multiculturalism & neurodiversity, respecting the complexity of diverse lived experiences, and resisting divisive forces that perpetuate social injustice in the scientific and academic communities.
 
 ------------------------------------------------------------------------
 
@@ -141,42 +141,24 @@ My priorities as an educator are to 1) help students become empathetic learners 
 
 ------------------------------------------------------------------------
 
+</p>
+::: columns
+:::
 
-<!-- ::: columns -->
+# **Work-life balance** {#section-four}
 
-<!-- ::: {.column width="45%"} -->
+Everyone deserves to have work-life balance, but there is not a one-size-fits-all model for achieving it. As academics, our daily, monthly, and annual workloads can be extremely individualized; even colleagues at the same institution or studying similar systems can have vastly different schedules and mosaics of responsibility.  
 
-<!-- \ -->
+<!--One-dimensional strategies such as  such as "don't work past 5pm" or "don't work on weekends", are incompatible with field seasons, grant deadlines, and time-sensitive laboratory experiments. -->
 
-<!-- \ -->
+<!--In addition, baked into much of the dialog about "Work-life balance" are antiquated assumptions of binary gender roles and a nuclear family structure, resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. For example, the tradition of 'over-working' (>40hrs per week), is leftover from a historically all-male workforce with minimal household responsibilities other than bringing in income. Though we appear to be approaching equal gender representation in eco-evo, metrics of evaluating success and productivity, and the internalized expectations we place on ourselves, are still lagging behind, disproportionately affecting historically underrepresented groups. -->
 
-<!-- \ -->
+To encourage more transparency in the diversity of work and life experiences, colleagues and I have developed [this shiny app tool](https://statsmatt.shinyapps.io/balanceApp/), where you can turn your life into an abstract blob of color  - for fun and reflection. 
 
-<!-- ![](About_4.png) -->
+![](About_4.png)
 
-<!-- ::: -->
+Here is me in 2023 - A beautiful mess, that somehow works for me :)  Read more about re-conceptualizing work and life as a **dynamic equilibrium** in our recent article in [*Trends in Ecology & Evolution*](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00285-4)
 
-<!-- ::: {.column width="10%"} -->
-
-<!-- <!-- empty column to create gap -->
-
-<!-- ::: -->
-
-<!-- ::: {.column width="45%"} -->
-
-<!-- # **Work-life balance** {#section-four} -->
-
-<!-- Not long ago, cis-white males held all of STEM and higher ed positions. There became an increasing need for "Work-Life Balance" to accommodate women needing to fulful dual responsibilities - still often   Therefore, sewn into the concept of "Work-life balance" are assumptions of binary gender roles and a nuclear family structure, resulting in expectations that are unrealistic for (and not representative of) the diversity in our field currently. Though we appear to be approaching equal gender representation in eco-evo, metrics of evaluating success and productivity, and the internalized expectations we place on ourselves, are lagging behind, disproportionately affecting historically underrepresented groups. -->
-
-<!-- ::: -->
-
-<!-- ::: -->
-
-<!-- Achieving work life balance can be a particular challenge for academics in ecology and evolution. For many, the way we relate to our research programs or curricula can be quite personal, interwoven with our non-work passions and priorities. Intense periods of field or lab work, short-term positions, and frequent moves are common, especially in earlier career stages when our personal lives are also the most in flux. Moreover, our daily, monthly, and annual schedules and workloads can be extremely individualized; even colleagues at similar types of institutions or studying similar systems can have vastly different schedules, institutional expectations, and mosaics of responsibility (e.g. teaching, mentorship, service, research, etc.). -->
-
-<!-- Advice Examples of is passed down informally from mentors to mentees. With cis-white men still grossly over-represented in senior positions, the first generations of women in STEM had exclusively male mentors. Subsequent generations were upgraded to a selection of over-worked and underappreciated women who had succeeded by assimilating into a male-centric rulebook. As with general WLB expectations, passed-down advice for how to achieve is also a generation behind. -->
-
-<!-- Colleagues and I have developed [this shiny app tool](https://statsmatt.shinyapps.io/balanceApp/), where you can turn your life into an abstract blob of color too - for fun and reflection.  -->
 
 <!-- ------------------------------------------------------------------------ -->
 :::
