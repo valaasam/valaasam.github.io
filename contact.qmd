@@ -2,7 +2,7 @@
 title: "CV & Contact"
 description: "**Valentina Alaasam**"
 image: Val1.jpeg
-resources: Alaasam_CV_2024_Dec2024.pdf
+resources: Alaasam_CV_April2025.pdf
 about: 
   template: trestles
   image-width: 25em
@@ -21,7 +21,7 @@ about:
       href: https://bsky.app/profile/vale-alaasam.bsky.social 
     - text: CV
       icon: file-text
-      href: Alaasam_CV_2024_Dec2024.pdf
+      href: Alaasam_CV_April2025.pdf
 ---
 
 ::: column-page
