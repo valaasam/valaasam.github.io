@@ -20,6 +20,13 @@ include-in-header:
         background-position: center;
         height: 80vh;
         position: relative;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center; /* vertical center */
+        align-items: center;     /* horizontal center */
+        text-align: center;
+        padding: 0 1rem;         /* keep title from hitting screen edge */
       }
 
       .quarto-title-block .quarto-title {
@@ -27,14 +34,9 @@ include-in-header:
       }
 
       .custom-title {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        text-align: center;
+        /* Removed absolute positioning */
         color: #ffffff;
         font-size: clamp(1rem, 4vw, 1.5rem);
-        padding: 0 5px;
         max-width: 90%;
         line-height: 1.3;
       }
@@ -54,29 +56,20 @@ include-in-header:
 
 ::: custom-title
 <h1><strong>Valentina J. Alaasam, Ph.D.</strong></h1>
-
-<p>Behavior \* Physiology \* Urbanization \* Evolution</p>
+<p>Behavior * Physiology * Urbanization * Evolution</p>
 :::
 
-::: column-page
-::: {layout="[ [1,1]]"}
-::: left
-\
+::: columns
+::: {.column width="60%"}
 I am an integrative biologist interested in the behavioral, physiological, and eco-evolutionary mechanisms by which animals respond to anthropogenic change. I study this in cities - a 'natural experiment' where the speed and magnitude of change is unprecedented and the intersection of multiple stressors (e.g. light, noise and air pollution, heat, habitat loss/fragmentation, invasive species, etc.) is especially potent. I also use cities as a bridge to engage with local communities and leverage what we learn to promote urban designs that nurture both human diversity and biodiversity.
 
-\
-
 I am currently an NSF postdoctoral fellow studying how hummingbirds are adapting to urbanization. I received my Ph.D. in Ecology, Evolution and Conservation Biology from the University of Nevada, Reno, where my dissertation focused on the effects of light pollution on sleep, circadian rhythms, and stress physiology in zebra finches. Check out my [research page](https://valaasam.github.io/research.html) for more information.
-
-\
 
 When I'm not doing science, I rock climb, backpack, run, ski uphill, cook, craft, and fight for social justice in both science and outdoor spaces. Learn more about me [here](https://valaasam.github.io/about.html).
 :::
 
-::: right
-\
-\
-![](Val_main.JPG){width="500"}
+::: {.column width="40%"}
+![](Val_main.JPG)
 :::
 :::
-:::
+
