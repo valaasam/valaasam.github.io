@@ -10,7 +10,7 @@ include-in-header:
   - text: |
       <style>
       h1 {
-        font-size: clamp(1.rem, 6vw, 3rem);
+        font-size: clamp(1.3rem, 6vw, 2.6rem);
         margin: 0;
       }
 
