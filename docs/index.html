@@ -67,7 +67,7 @@ background: #00000000;
     </style>
 <style>
 h1 {
-  font-size: clamp(1.3rem, 6vw, 3rem);
+  font-size: clamp(1.rem, 6vw, 3rem);
   margin: 0;
 }
 
@@ -77,13 +77,6 @@ h1 {
   background-position: center;
   height: 80vh;
   position: relative;
-
-  display: flex;
-  flex-direction: column;
-  justify-content: center; /* vertical center */
-  align-items: center;     /* horizontal center */
-  text-align: center;
-  padding: 0 1rem;         /* keep title from hitting screen edge */
 }
 
 .quarto-title-block .quarto-title {
@@ -91,9 +84,14 @@ h1 {
 }
 
 .custom-title {
-  /* Removed absolute positioning */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
   color: #ffffff;
   font-size: clamp(1rem, 4vw, 1.5rem);
+  padding: 0 5px;
   max-width: 90%;
   line-height: 1.3;
 }
@@ -193,7 +191,7 @@ img {
         
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
 
 
 
@@ -206,13 +204,25 @@ img {
 Behavior * Physiology * Urbanization * Evolution
 </p>
 </div>
-<div class="columns">
-<div class="column" style="width:60%;">
-<p>I am an integrative biologist interested in the behavioral, physiological, and eco-evolutionary mechanisms by which animals respond to anthropogenic change. I study this in cities - a ‘natural experiment’ where the speed and magnitude of change is unprecedented and the intersection of multiple stressors (e.g.&nbsp;light, noise and air pollution, heat, habitat loss/fragmentation, invasive species, etc.) is especially potent. I also use cities as a bridge to engage with local communities and leverage what we learn to promote urban designs that nurture both human diversity and biodiversity.</p>
+<div class="column-page">
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="left quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><br>
+I am an integrative biologist interested in the behavioral, physiological, and eco-evolutionary mechanisms by which animals respond to anthropogenic change. I study this in cities - a ‘natural experiment’ where the speed and magnitude of change is unprecedented and the intersection of multiple stressors (e.g.&nbsp;light, noise and air pollution, heat, habitat loss/fragmentation, invasive species, etc.) is especially potent. I also use cities as a bridge to engage with local communities and leverage what we learn to promote urban designs that nurture both human diversity and biodiversity.</p>
+<p><br>
+</p>
 <p>I am currently an NSF postdoctoral fellow studying how hummingbirds are adapting to urbanization. I received my Ph.D.&nbsp;in Ecology, Evolution and Conservation Biology from the University of Nevada, Reno, where my dissertation focused on the effects of light pollution on sleep, circadian rhythms, and stress physiology in zebra finches. Check out my <a href="https://valaasam.github.io/research.html">research page</a> for more information.</p>
+<p><br>
+</p>
 <p>When I’m not doing science, I rock climb, backpack, run, ski uphill, cook, craft, and fight for social justice in both science and outdoor spaces. Learn more about me <a href="https://valaasam.github.io/about.html">here</a>.</p>
-</div><div class="column" style="width:40%;">
-<p><img src="Val_main.JPG" class="img-fluid"></p>
+</div>
+<div class="right quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><br>
+<br>
+<img src="Val_main.JPG" class="img-fluid" width="500"></p>
+</div>
+</div>
 </div>
 </div>
 
