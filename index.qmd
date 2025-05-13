@@ -9,9 +9,10 @@ title-block-banner-color: "#000000"
 include-in-header:
   - text: |
       <style>
-      /* Increase title font size */
+      /* Responsive title font */
       h1 {
-        font-size: 50px; /* Adjust the size as needed */
+        font-size: clamp(1.8rem, 4vw, 3rem); /* Scales between mobile and large screen */
+        margin-bottom: 0.5em;
       }
       #title-block-header {
         background-image: url(header_main.jpg);
@@ -30,9 +31,20 @@ include-in-header:
         transform: translate(-50%, -50%); /* Center the element */
         text-align: center; /* Center text */
         color: #ffffff; /* White text color */
-        font-size: 25px; 
+        font-size: clamp(1rem, 2.5vw, 1.5rem);
         padding: 0 5px; /* Add some padding to prevent text from touching the edges */
         max-width: 90%; /* Limit width of the title for responsiveness */
+      }
+       /* Make all images responsive */
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      @media (max-width: 768px) {
+        #title-block-header {
+          height: 50vh; /* Reduce banner height on small screens */
+        }
       }
       </style>
 ---
