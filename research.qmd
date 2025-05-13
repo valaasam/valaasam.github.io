@@ -9,32 +9,45 @@ title-block-banner-color: "#ffffff"
 include-in-header:
   - text: |
       <style>
-       /* Increase title font size */
       h1 {
-        font-size: 55px; /* Adjust the size as needed */
+        font-size: clamp(1.3rem, 6vw, 2.6rem);
+        margin: 0;
       }
-      .quarto-title-block .quarto-title-banner {
-        height: 10;
-      }
+
       #title-block-header {
         background-image: url(header_research.jpg);
         background-size: cover;
         background-position: center;
         height: 80vh;
-        position: relative;   
+        position: relative;
       }
+
       .quarto-title-block .quarto-title {
         display: none;
       }
+
       .custom-title {
-        position: absolute; /* Use absolute positioning */
-        top: 50%; /* Position 50% from the top to center vertically */
-        left: 50%; /* Position 50% from the left */
-        transform: translate(-50%, -50%); /* Center the element */
-        text-align: center; /* Center text */
-        color: #ffffff; /* White text color */
-        padding: 0 5px; /* Add some padding to prevent text from touching the edges */
-        max-width: 90%; /* Limit width of the title for responsiveness */
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: #ffffff;
+        font-size: clamp(1rem, 4vw, 1.5rem);
+        padding: 0 5px;
+        max-width: 90%;
+        line-height: 1.3;
+      }
+
+      @media (max-width: 768px) {
+        #title-block-header {
+          height: 50vh;
+        }
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
       }
       </style>
 ---
@@ -245,7 +258,7 @@ I am always looking for community members to help me study hummingbirds. **If yo
 
 ## **Community Engagement**
 
-Whether we are conducting surveys in a public park, the side of the road, or a private backyard, I tailor my work to encourage local community curiosity and participation. I believe fundamentally that it is our duty (as scientists) to ensure the knowledge we generate is accessible to anyone who is interested, and to anyone who is affected. Outreach education is especially important as an urban ecologist because humans are both members and architects of urban ecosystems. The knowledge my research generates has the potential to directly apply to human lives, and reciprocally, human decision-making has the potential to directly affect the species I study. Moreover, by working in human-dominated landscapes, we have an opportunity to connect with people that maybe otherwise wouldn’t even know to *be* curious about science. That is why I have designed my fieldwork to rely on community participation. I also take every opportunity to practice communicating my science to general audiences, and create opportunities for my students to do the same.
+Whether we are conducting surveys in a public park, the side of the road, or a private backyard, I tailor my work to encourage local community curiosity and participation. I believe fundamentally that it is our duty (as scientists) to ensure the knowledge we generate is accessible to anyone who is interested, and to anyone who is affected. Outreach education is especially important as an urban ecologist because humans are both members and architects of urban ecosystems. The knowledge my research generates has the potential to directly apply to human lives, and reciprocally, human decision-making has the potential to directly affect the species I study. Moreover, by working in human-dominated landscapes, we have an opportunity to connect with people that maybe otherwise wouldn't even know to *be* curious about science. That is why I have designed my fieldwork to rely on community participation. I also take every opportunity to practice communicating my science to general audiences, and create opportunities for my students to do the same.
 
 ::: {style="display: flex; justify-content: space-around;"}
 <img src="comeng1.JPG" alt="Im1" style="width: 50%; margin: 0 10px;"/> <img src="comeng2.jpg" alt="Im2" style="width: 44%; margin: 0 10px;"/>

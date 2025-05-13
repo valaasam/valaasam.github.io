@@ -8,32 +8,45 @@ title-block-banner-color: "#ffffff"
 include-in-header:
   - text: |
       <style>
-       /* Increase title font size */
       h1 {
-        font-size: 55px; /* Adjust the size as needed */
+        font-size: clamp(1.3rem, 6vw, 2.6rem);
+        margin: 0;
       }
-      .quarto-title-block .quarto-title-banner {
-        height: 10;
-      }
+
       #title-block-header {
         background-image: url(Header_mentor.JPG);
         background-size: cover;
         background-position: center;
         height: 80vh;
-        position: relative;   
+        position: relative;
       }
+
       .quarto-title-block .quarto-title {
         display: none;
       }
+
       .custom-title {
-        position: absolute; /* Use absolute positioning */
-        top: 50%; /* Position 50% from the top to center vertically */
-        left: 50%; /* Position 50% from the left */
-        transform: translate(-50%, -50%); /* Center the element */
-        text-align: center; /* Center text */
-        color: #ffffff; /* White text color */
-        padding: 0 5px; /* Add some padding to prevent text from touching the edges */
-        max-width: 90%; /* Limit width of the title for responsiveness */
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: #ffffff;
+        font-size: clamp(1rem, 4vw, 1.5rem);
+        padding: 0 5px;
+        max-width: 90%;
+        line-height: 1.3;
+      }
+
+      @media (max-width: 768px) {
+        #title-block-header {
+          height: 50vh;
+        }
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
       }
       </style>
 ---
@@ -54,13 +67,11 @@ include-in-header:
 ## **Urbanization and Sexual Signaling**
 
 ::: {style="text-align: center;"}
-<img src="tamia1.jpeg" style="width: 32%; margin: 0 10px;"/>
-<img src="Tamia.jpg" style="width: 57%; margin: 0 10px;"/>
+<img src="tamia1.jpeg" style="width: 32%; margin: 0 10px;"/> <img src="Tamia.jpg" style="width: 57%; margin: 0 10px;"/>
 :::
 
 ::: {style="text-align: center;"}
-<img src="tamia4.jpg" style="width: 52%; margin: 0 10px;"/>
-<img src="tamia3.jpg" style="width: 37%; margin: 0 10px;"/>
+<img src="tamia4.jpg" style="width: 52%; margin: 0 10px;"/> <img src="tamia3.jpg" style="width: 37%; margin: 0 10px;"/>
 :::
 :::
 
@@ -69,7 +80,6 @@ include-in-header:
 :::
 
 ::: {.column width="45%"}
-
 **Tamia Tabourne**\
 *Undergraduate student, Howard University*
 
@@ -88,15 +98,12 @@ Tamia is graduating with a B.S. from Howard University in 2025, and has been acc
 ::: {.column width="50%"}
 ## **Diet, Microbes, and City Heat**
 
-
 ::: {style="text-align: center;"}
-<img src="Olivia.jpg" style="width: 45%; margin: 0 10px;"/>
-<img src="olivia2.jpeg" style="width: 45%; margin: 0 10px;"/>
+<img src="Olivia.jpg" style="width: 45%; margin: 0 10px;"/> <img src="olivia2.jpeg" style="width: 45%; margin: 0 10px;"/>
 :::
 
 ::: {style="text-align: center;"}
-<img src="olivia3.jpg" style="width: 57.5%; margin: 0 10px;"/>
-<img src="olivia4.jpg" style="width: 32.5%; margin: 0 10px;"/>
+<img src="olivia3.jpg" style="width: 57.5%; margin: 0 10px;"/> <img src="olivia4.jpg" style="width: 32.5%; margin: 0 10px;"/>
 :::
 :::
 
@@ -105,7 +112,6 @@ Tamia is graduating with a B.S. from Howard University in 2025, and has been acc
 :::
 
 ::: {.column width="45%"}
-
 **Olivia Weklar**\
 *Ph.D. Student, New York University*
 
@@ -142,7 +148,11 @@ We have also used this project as an outreach tool. For example, we have conduct
 
 <img src="Rafael.jpeg" alt="Image 1" style="width: 100%;"/>
 
-<figcaption style="font-size: 14px;">**Rafael E. Baez-Segui** (M.Sc. student)</figcaption>
+<figcaption style="font-size: 14px;">
+
+**Rafael E. Baez-Segui** (M.Sc. student)
+
+</figcaption>
 
 </figure>
 
@@ -150,7 +160,11 @@ We have also used this project as an outreach tool. For example, we have conduct
 
 <img src="Gaia.jpeg" alt="Image 2" style="width: 100%;"/>
 
-<figcaption style="font-size: 14px;">**Gaia Rueda Moreno**<br>(Senior, undergrad)</figcaption>
+<figcaption style="font-size: 14px;">
+
+**Gaia Rueda Moreno**<br>(Senior, undergrad)
+
+</figcaption>
 
 </figure>
 
@@ -158,7 +172,11 @@ We have also used this project as an outreach tool. For example, we have conduct
 
 <img src="Emerald.jpeg" alt="Image 3" width="102%"/>
 
-<figcaption style="font-size: 14px;">**Emerald Lin**<br>(Junior, undergrad)</figcaption>
+<figcaption style="font-size: 14px;">
+
+**Emerald Lin**<br>(Junior, undergrad)
+
+</figcaption>
 
 </figure>
 :::
@@ -173,13 +191,11 @@ We have also used this project as an outreach tool. For example, we have conduct
 ## **Behavior and Thermoregulation**
 
 ::: {style="text-align: center;"}
-<img src="sai1.jpeg" style="width: 36.5%; margin: 0 10px;"/>
-<img src="sai2.jpg" style="width: 55%; margin: 0 10px;"/>
+<img src="sai1.jpeg" style="width: 36.5%; margin: 0 10px;"/> <img src="sai2.jpg" style="width: 55%; margin: 0 10px;"/>
 :::
 
 ::: {style="text-align: center;"}
-<img src="sai3.jpg" style="width: 32%; margin: 0 10px;"/>
-<img src="sai4.jpg" style="width: 60%; margin: 0 10px;"/>
+<img src="sai3.jpg" style="width: 32%; margin: 0 10px;"/> <img src="sai4.jpg" style="width: 60%; margin: 0 10px;"/>
 :::
 :::
 
@@ -206,9 +222,7 @@ Saimara just started a masters degree at SUNY Buffalo in the lab of Marcella Bae
 ## **Metabolic Adaptation in an invasive insect**
 
 ::: {style="text-align: center;"}
-<img src="fallon1.jpeg" style="width: 29.5%; margin: 0 10px;"/>
-<img src="fallon2.jpeg" style="width: 29.5%; margin: 0 10px;"/>
-<img src="fallon3.jpeg" style="width: 29.5%; margin: 0 10px;"/>
+<img src="fallon1.jpeg" style="width: 29.5%; margin: 0 10px;"/> <img src="fallon2.jpeg" style="width: 29.5%; margin: 0 10px;"/> <img src="fallon3.jpeg" style="width: 29.5%; margin: 0 10px;"/>
 :::
 :::
 
@@ -240,11 +254,9 @@ During my doctorate I studied how light pollution disrupts circadian rhythms in 
 :::
 
 ::: {.column width="35%"}
-
 ::: {style="text-align: center;"}
 <img src="alan1.jpg" style="width: 70%;"/>
 :::
-
 :::
 :::
 

@@ -10,32 +10,45 @@ title-block-banner-color: "#ffffff"
 include-in-header:
   - text: |
       <style>
-       /* Increase title font size */
       h1 {
-        font-size: 55px; /* Adjust the size as needed */
+        font-size: clamp(1.3rem, 6vw, 2.6rem);
+        margin: 0;
       }
-      .quarto-title-block .quarto-title-banner {
-        height: 10;
-      }
+
       #title-block-header {
         background-image: url(Header_press2.jpg);
         background-size: cover;
         background-position: center;
         height: 80vh;
-        position: relative;   
+        position: relative;
       }
+
       .quarto-title-block .quarto-title {
         display: none;
       }
+
       .custom-title {
-        position: absolute; /* Use absolute positioning */
-        top: 50%; /* Position 50% from the top to center vertically */
-        left: 50%; /* Position 50% from the left */
-        transform: translate(-50%, -50%); /* Center the element */
-        text-align: center; /* Center text */
-        color: #ffffff; /* White text color */
-        padding: 0 5px; /* Add some padding to prevent text from touching the edges */
-        max-width: 90%; /* Limit width of the title for responsiveness */
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: #ffffff;
+        font-size: clamp(1rem, 4vw, 1.5rem);
+        padding: 0 5px;
+        max-width: 90%;
+        line-height: 1.3;
+      }
+
+      @media (max-width: 768px) {
+        #title-block-header {
+          height: 50vh;
+        }
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
       }
       </style>
 ---
@@ -66,11 +79,11 @@ Nerd Nite Reno. ["Getting Nerdy About Light Pollution".](https://open.spotify.co
 
 [What To Know about the 2024 Total Eclipse: Tips from NYU experts on eye safety, photography, animal behavior, and more ahead of the sun's big show.](https://www.nyu.edu/about/news-publications/news/2024/march/eclipse-guide-2024.html). Reynolds E. **NYU News**. March 29, 2024\
 
-[Stress in the city.](https://thebiologist.rsb.org.uk/biologist-features/stress-in-the-city). Rawat, S.  **The Biologist**. September 11, 2023\
+[Stress in the city.](https://thebiologist.rsb.org.uk/biologist-features/stress-in-the-city). Rawat, S. **The Biologist**. September 11, 2023\
 
 [Artificial light at night: A research field in action.](https://doi.org/10.1093/biosci/biad058). Ogden LE. **BioScience**. Volume 73, Issue 7, July 2023, Pages 469--475\
 
-[Want to help wildlife? Turn off your lights.](https://www.nationalgeographic.com/environment/article/light-pollution-how-to-help-wildlife). Gibbons, S.  **National Geographic**. April 3, 2023\
+[Want to help wildlife? Turn off your lights.](https://www.nationalgeographic.com/environment/article/light-pollution-how-to-help-wildlife). Gibbons, S. **National Geographic**. April 3, 2023\
 
 [How light pollution disrupts plants' senses.](https://www.bbc.com/future/article/20230308-how-light-pollution-disrupts-plants-senses). Hirschlag A. **BBC Future**. March 8, 2023\
 
@@ -80,7 +93,7 @@ Nerd Nite Reno. ["Getting Nerdy About Light Pollution".](https://open.spotify.co
 
 Soapbox Science, New York, NY. *August 23, 2024*\
 
-The Myrrh the Merrier: Comedy and trivia loosely inspired by the holidays. Live show. New York, NY, USA. December 17th, 2024. 
+The Myrrh the Merrier: Comedy and trivia loosely inspired by the holidays. Live show. New York, NY, USA. December 17th, 2024.
 
 [Borrows of NYC: Comedy and trivia loosely inspired by urban wildlife.](https://open.spotify.com/episode/4jXGzACTpnUDfxk8W54LlD?si=986bc37ee4274299). Live show. New York, NY, USA. May 16, 2024\
 

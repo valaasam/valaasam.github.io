@@ -65,13 +65,11 @@ background: #00000000;
     }
     </style>
 <style>
- /* Increase title font size */
 h1 {
-  font-size: 55px; /* Adjust the size as needed */
+  font-size: clamp(1.3rem, 6vw, 2.6rem);
+  margin: 0;
 }
-.quarto-title-block .quarto-title-banner {
-  height: 10;
-}
+
 #title-block-header {
   background-image: url(Header_mentor.JPG);
   background-size: cover;
@@ -79,18 +77,33 @@ h1 {
   height: 80vh;
   position: relative;
 }
+
 .quarto-title-block .quarto-title {
   display: none;
 }
+
 .custom-title {
-  position: absolute; /* Use absolute positioning */
-  top: 50%; /* Position 50% from the top to center vertically */
-  left: 50%; /* Position 50% from the left */
-  transform: translate(-50%, -50%); /* Center the element */
-  text-align: center; /* Center text */
-  color: #ffffff; /* White text color */
-  padding: 0 5px; /* Add some padding to prevent text from touching the edges */
-  max-width: 90%; /* Limit width of the title for responsiveness */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+  font-size: clamp(1rem, 4vw, 1.5rem);
+  padding: 0 5px;
+  max-width: 90%;
+  line-height: 1.3;
+}
+
+@media (max-width: 768px) {
+  #title-block-header {
+    height: 50vh;
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 </style>
 
@@ -254,19 +267,19 @@ h1 {
 <figure style="width: 30%; margin: 0 5px; text-align: center;" class="figure">
 <p><img src="Rafael.jpeg" alt="Image 1" style="width: 100%;" class="figure-img"></p>
 <figcaption style="font-size: 14px;" class="figure-caption">
-<strong>Rafael E. Baez-Segui</strong> (M.Sc. student)
+<p><strong>Rafael E. Baez-Segui</strong> (M.Sc. student)</p>
 </figcaption>
 </figure>
 <figure style="width: 30%; margin: 0 5px; text-align: center;" class="figure">
 <p><img src="Gaia.jpeg" alt="Image 2" style="width: 100%;" class="figure-img"></p>
 <figcaption style="font-size: 14px;" class="figure-caption">
-<strong>Gaia Rueda Moreno</strong><br>(Senior, undergrad)
+<p><strong>Gaia Rueda Moreno</strong><br>(Senior, undergrad)</p>
 </figcaption>
 </figure>
 <figure style="width: 30%; margin: 0 5px; text-align: center;" class="figure">
 <p><img src="Emerald.jpeg" alt="Image 3" width="102%" class="figure-img"></p>
 <figcaption style="font-size: 14px;" class="figure-caption">
-<strong>Emerald Lin</strong><br>(Junior, undergrad)
+<p><strong>Emerald Lin</strong><br>(Junior, undergrad)</p>
 </figcaption>
 </figure>
 </div>
