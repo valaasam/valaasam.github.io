@@ -14,7 +14,7 @@ include-in-header:
       }
 
       #title-block-header {
-        background-image: url(header_pubs.jpg);
+        background-image: url(header_pubs.jpeg);
         background-size: cover;
         background-position: center;
         height: 80vh;
